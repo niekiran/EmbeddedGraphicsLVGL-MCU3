@@ -1,0 +1,71 @@
+/*
+ * bsp_lcd.h
+ *
+ *  Created on: 30-May-2022
+ *      Author: nieki
+ */
+
+#ifndef BSP_LCD_H_
+#define BSP_LCD_H_
+
+#include"stm32f746xx.h"
+#include "reg_util.h"
+#include "board.h"
+
+#define BSP_LCD_WIDTH  		480UL
+#define BSP_LCD_HEIGHT 		272UL
+
+
+/*Select orientation*/
+#define PORTRAIT  0
+#define LANDSCAPE 1
+#define BSP_LCD_ORIENTATION   PORTRAIT
+
+#if(BSP_LCD_ORIENTATION == PORTRAIT)
+	#define  BSP_LCD_ACTIVE_WIDTH 			BSP_LCD_HEIGHT
+	#define  BSP_LCD_ACTIVE_HEIGHT  		BSP_LCD_WIDTH
+#elif(BSP_LCD_ORIENTATION == LANDSCAPE)
+	#define  BSP_LCD_ACTIVE_WIDTH 			BSP_LCD_WIDTH
+	#define  BSP_LCD_ACTIVE_HEIGHT 			BSP_LCD_HEIGHT
+#endif
+
+
+/*Set layer width and height */
+#define BSP_LTDC_LAYER_WIDTH				BSP_LCD_ACTIVE_WIDTH
+#define BSP_LTDC_LAYER_HEIGHT				BSP_LCD_ACTIVE_HEIGHT
+#define BSP_LTDC_LAYER_H_START				0
+#define BSP_LTDC_LAYER_H_STOP				BSP_LCD_ACTIVE_WIDTH
+#define BSP_LTDC_LAYER_V_START				0
+#define BSP_LTDC_LAYER_V_STOP				BSP_LCD_ACTIVE_HEIGHT
+
+
+/*Select pixel format */
+#define	BSP_LCD_PIXEL_FMT_L8 		1
+#define	BSP_LCD_PIXEL_FMT_RGB565	2
+#define BSP_LCD_PIXEL_FMT_RGB666    3
+#define	BSP_LCD_PIXEL_FMT_RGB888	4
+#define BSP_LCD_PIXEL_FMT 			BSP_LCD_PIXEL_FMT_RGB565
+
+
+#define BSP_LCD_HSW 		41
+#define BSP_LCD_HBP			13
+#define BSP_LCD_HFP			32
+#define BSP_LCD_VSW			10
+#define BSP_LCD_VBP			2
+#define BSP_LCD_VFP			2
+
+#define BSP_FB_WIDTH		BSP_LTDC_LAYER_WIDTH
+#define BSP_FB_HEIGHT		BSP_LTDC_LAYER_HEIGHT
+
+extern  GPIO_TypeDef *ltdc_io_ports[];
+extern const uint8_t ltdc_pins[];
+extern const uint8_t total_ltdc_pins;
+
+
+void bsp_lcd_init(void);
+uint32_t bsp_lcd_get_fb_address(void);
+void bsp_lcd_set_fb_background_color(uint32_t rgb888);
+void bsp_lcd_fill_rect(uint32_t rgb888, uint32_t x_start, uint32_t x_width,uint32_t y_start,uint32_t y_height);
+void BSP_LCD_Set_Orientation(int orientation);
+
+#endif /* BSP_LCD_H_ */

@@ -1,0 +1,5 @@
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f407vgtx.o"
+"./bsp_f4x/lcd/bsp_lcd.o"

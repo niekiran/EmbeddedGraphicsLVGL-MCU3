@@ -1,0 +1,10 @@
+19:24:02 **** Clean-only build of configuration Debug for project F746x_Vibgyor_Bars ****
+make -j8 clean 
+rm -rf ./bsp_f7x/lcd/bsp_lcd.d ./bsp_f7x/lcd/bsp_lcd.o ./bsp_f7x/lcd/bsp_lcd.su ./bsp_f7x/lcd/bsp_lcd_ex.d ./bsp_f7x/lcd/bsp_lcd_ex.o ./bsp_f7x/lcd/bsp_lcd_ex.su
+rm -rf ./Startup/startup_stm32f746nghx.d ./Startup/startup_stm32f746nghx.o
+rm -rf ./Src/main.d ./Src/main.o ./Src/main.su ./Src/syscalls.d ./Src/syscalls.o ./Src/syscalls.su ./Src/sysmem.d ./Src/sysmem.o ./Src/sysmem.su
+rm -rf F746x_Vibgyor_Bars.elf F746x_Vibgyor_Bars.list F746x_Vibgyor_Bars.map default.size.stdout
+ 
+
+19:24:03 Build Finished. 0 errors, 0 warnings. (took 387ms)
+

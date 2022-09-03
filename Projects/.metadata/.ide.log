@@ -1,0 +1,12 @@
+2022-09-03 12:32:13,799 [INFO] Activator:177 - 
+
+
+2022-09-03 12:32:13,802 [INFO] Activator:178 - !SESSION log4j initialized
+2022-09-03 12:32:17,304 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
+2022-09-03 12:35:14,638 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_mcu.2071040747.565391252 uses a null category that is invalid in its context. The option was ignored.
+2022-09-03 12:35:14,645 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_cpuid.1678739734.1396055592 uses a null category that is invalid in its context. The option was ignored.
+2022-09-03 12:35:14,650 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_coreid.1081513687.340945196 uses a null category that is invalid in its context. The option was ignored.
+2022-09-03 12:35:14,655 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.gnu.managedbuild.option.fpu.1797960193.186563578 uses a null category that is invalid in its context. The option was ignored.
+2022-09-03 12:35:14,660 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.gnu.managedbuild.option.floatabi.1334721271.1854956282 uses a null category that is invalid in its context. The option was ignored.
+2022-09-03 12:35:14,664 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_board.1727251968.966222580 uses a null category that is invalid in its context. The option was ignored.
+2022-09-03 12:35:14,669 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.gnu.managedbuild.option.defaults.998474983.1416697020 uses a null category that is invalid in its context. The option was ignored.

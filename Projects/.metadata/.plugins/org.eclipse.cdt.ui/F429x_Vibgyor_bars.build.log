@@ -1,0 +1,9 @@
+19:23:55 **** Clean-only build of configuration Debug for project F429x_Vibgyor_bars ****
+make -j8 clean 
+rm -rf ./Startup/startup_stm32f429zitx.d ./Startup/startup_stm32f429zitx.o
+rm -rf ./Src/bsp_lcd.d ./Src/bsp_lcd.o ./Src/bsp_lcd.su ./Src/bsp_lcd_ex.d ./Src/bsp_lcd_ex.o ./Src/bsp_lcd_ex.su ./Src/main.d ./Src/main.o ./Src/main.su ./Src/syscalls.d ./Src/syscalls.o ./Src/syscalls.su ./Src/sysmem.d ./Src/sysmem.o ./Src/sysmem.su
+rm -rf F429x_Vibgyor_bars.elf F429x_Vibgyor_bars.list F429x_Vibgyor_bars.map default.size.stdout
+ 
+
+19:23:55 Build Finished. 0 errors, 0 warnings. (took 384ms)
+

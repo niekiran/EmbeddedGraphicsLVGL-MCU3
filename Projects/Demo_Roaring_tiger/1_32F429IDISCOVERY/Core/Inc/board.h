@@ -1,0 +1,101 @@
+/*
+ * board.h
+ *
+ *  Created on: 11-Jun-2022
+ *      Author: nieki
+ */
+
+#ifndef BOARD_H_
+#define BOARD_H_
+
+#define MCU_GPIO_PIN_0					0U
+#define MCU_GPIO_PIN_1					1U
+#define MCU_GPIO_PIN_2					2U
+#define MCU_GPIO_PIN_3					3U
+#define MCU_GPIO_PIN_4					4U
+#define MCU_GPIO_PIN_5					5U
+#define MCU_GPIO_PIN_6					6U
+#define MCU_GPIO_PIN_7					7U
+#define MCU_GPIO_PIN_8					8U
+#define MCU_GPIO_PIN_9					9U
+#define MCU_GPIO_PIN_10					10U
+#define MCU_GPIO_PIN_11					11U
+#define MCU_GPIO_PIN_12					12U
+#define MCU_GPIO_PIN_13					13U
+#define MCU_GPIO_PIN_14					14U
+#define MCU_GPIO_PIN_15					15U
+
+
+#define LCD_DATA_R2_PIN			MCU_GPIO_PIN_10
+#define LCD_DATA_R3_PIN			MCU_GPIO_PIN_0
+#define LCD_DATA_R4_PIN			MCU_GPIO_PIN_11
+#define LCD_DATA_R5_PIN			MCU_GPIO_PIN_12
+#define LCD_DATA_R6_PIN			MCU_GPIO_PIN_1
+#define LCD_DATA_R7_PIN			MCU_GPIO_PIN_6
+
+
+#define LCD_DATA_G2_PIN			MCU_GPIO_PIN_6
+#define LCD_DATA_G3_PIN			MCU_GPIO_PIN_10
+#define LCD_DATA_G4_PIN			MCU_GPIO_PIN_10
+#define LCD_DATA_G5_PIN			MCU_GPIO_PIN_11
+#define LCD_DATA_G6_PIN			MCU_GPIO_PIN_7
+#define LCD_DATA_G7_PIN			MCU_GPIO_PIN_3
+
+#define LCD_DATA_B2_PIN			MCU_GPIO_PIN_6
+#define LCD_DATA_B3_PIN			MCU_GPIO_PIN_11
+#define LCD_DATA_B4_PIN			MCU_GPIO_PIN_12
+#define LCD_DATA_B5_PIN			MCU_GPIO_PIN_3
+#define LCD_DATA_B6_PIN			MCU_GPIO_PIN_8
+#define LCD_DATA_B7_PIN			MCU_GPIO_PIN_9
+
+#define LCD_HSYNC_PIN			MCU_GPIO_PIN_6
+#define LCD_VSYNC_PIN			MCU_GPIO_PIN_4
+#define LCD_DE_PIN				MCU_GPIO_PIN_10
+#define LCD_DOTCLK_PIN			MCU_GPIO_PIN_7
+
+
+#define LCD_DATA_R2_PORT		GPIOC
+#define LCD_DATA_R3_PORT		GPIOB
+#define LCD_DATA_R4_PORT		GPIOA
+#define LCD_DATA_R5_PORT		GPIOA
+#define LCD_DATA_R6_PORT		GPIOB
+#define LCD_DATA_R7_PORT		GPIOG
+
+
+#define LCD_DATA_G2_PORT		GPIOA
+#define LCD_DATA_G3_PORT		GPIOG
+#define LCD_DATA_G4_PORT		GPIOB
+#define LCD_DATA_G5_PORT		GPIOB
+#define LCD_DATA_G6_PORT		GPIOC
+#define LCD_DATA_G7_PORT		GPIOD
+
+
+#define LCD_DATA_B2_PORT		GPIOD
+#define LCD_DATA_B3_PORT		GPIOG
+#define LCD_DATA_B4_PORT		GPIOG
+#define LCD_DATA_B5_PORT		GPIOA
+#define LCD_DATA_B6_PORT		GPIOB
+#define LCD_DATA_B7_PORT		GPIOB
+
+#define LCD_HSYNC_PORT			GPIOC
+#define LCD_VSYNC_PORT			GPIOA
+#define LCD_DE_PORT				GPIOF
+#define LCD_DOTCLK_PORT			GPIOG
+
+
+/*Define all the LCD signals */
+
+#define SPI						SPI5
+#define LCD_SCL_PIN				MCU_GPIO_PIN_7
+#define LCD_SCL_PORT			GPIOF
+#define LCD_SDA_PIN				MCU_GPIO_PIN_9
+#define LCD_SDA_PORT			GPIOF
+#define LCD_RESX_PIN			MCU_GPIO_PIN_7
+#define LCD_RESX_PORT			GPIOA
+#define LCD_CSX_PIN				MCU_GPIO_PIN_2
+#define LCD_CSX_PORT			GPIOC
+#define LCD_DCX_PIN			    MCU_GPIO_PIN_13
+#define LCD_DCX_PORT		    GPIOD
+
+
+#endif /* BOARD_H_ */

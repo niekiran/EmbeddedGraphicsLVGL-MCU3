@@ -1,0 +1,6 @@
+"./Src/bsp_lcd.o"
+"./Src/bsp_lcd_ex.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f429zitx.o"

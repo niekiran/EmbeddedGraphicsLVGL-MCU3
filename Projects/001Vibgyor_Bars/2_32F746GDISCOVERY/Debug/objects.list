@@ -1,0 +1,6 @@
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f746nghx.o"
+"./bsp_f7x/lcd/bsp_lcd.o"
+"./bsp_f7x/lcd/bsp_lcd_ex.o"
