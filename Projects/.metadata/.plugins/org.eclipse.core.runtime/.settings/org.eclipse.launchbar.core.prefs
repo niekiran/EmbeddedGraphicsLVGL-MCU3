@@ -1,7 +1,0 @@
-LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
-LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
-LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:F407x_Vibgyor_Bars,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:002_LVGL_sample,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:003_LVGL_RGB_Mixer,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:F429x_Roaring_tiger_demo,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001_Vibgyor_bars,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:F746x_LVGL_sample,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:F746x_RGB_Mixer,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:F746x_Roaring_tiger_demo,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:F746x_Vibgyor_Bars,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:F407x_RGB_Mixer,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:F407x_Roaring_tiger_demo,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:F407x_LVGL_sample
-eclipse.preferences.version=1
-org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:F407x_Vibgyor_Bars/activeLaunchMode=run
-org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:F407x_Vibgyor_Bars/activeLaunchTarget=null\:---
