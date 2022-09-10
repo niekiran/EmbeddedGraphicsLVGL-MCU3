@@ -6,6 +6,10 @@
 #define MADCTL_BGR 0x08 ///< Blue-Green-Red pixel order
 #define MADCTL_MH 0x04  ///< LCD refresh right to left
 
+static void delay_50ms(void){
+	for(uint32_t i = 0 ; i<(0xFFFFU * 10U);i++);
+}
+
  /* 
  *ILI9341 TFT-LCD configuration commands 
  *Use this command list with MCU which uses SPI interface to communicate with the LCD(for command and RGB data)
