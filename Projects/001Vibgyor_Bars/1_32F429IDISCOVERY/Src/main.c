@@ -84,10 +84,11 @@ void LTDC_Pin_Init(void)
 		REG_SET_VAL(ltdc_io_ports[i]->MODER,2U,0x3U,(ltdc_pins[i] * 2U));
 		REG_CLR_BIT(ltdc_io_ports[i]->OTYPER,ltdc_pins[i]);
 		REG_SET_VAL(ltdc_io_ports[i]->OSPEEDR,2U,0x3U,(ltdc_pins[i] * 2U));
+
 		if(ltdc_pins[i] < 8)
-			REG_SET_VAL(ltdc_io_ports[i]->AFR[0],14U,0xFU,(ltdc_pins[i] * 4U));
+			REG_SET_VAL(ltdc_io_ports[i]->AFR[0],ltdc_af_values[i],0xFU,(ltdc_pins[i] * 4U));
 		else
-			REG_SET_VAL(ltdc_io_ports[i]->AFR[1],14U,0xFU,((ltdc_pins[i] % 8) * 4U));
+			REG_SET_VAL(ltdc_io_ports[i]->AFR[1],ltdc_af_values[i],0xFU,((ltdc_pins[i] % 8) * 4U));
 	}
 }
 

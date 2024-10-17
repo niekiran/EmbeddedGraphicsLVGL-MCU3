@@ -75,6 +75,15 @@ const uint8_t ltdc_pins[] = {
 		LCD_DOTCLK_PIN
 };
 
+
+const uint8_t ltdc_af_values[] = {
+    14U, 9U, 14U, 14U, 9U, 14U, // R pins
+    14U, 9U, 14U, 14U, 14U, 14U, // G pins
+    14U, 14U, 9U, 14U, 14U, 14U, // B pins
+    14U, 14U, 14U, 14U // HSYNC, VSYNC, DE, DOTCLK
+};
+
+
 #define LCD_TOTAL_PINS  (sizeof(ltdc_pins)/sizeof(ltdc_pins[0]))
 
 const uint8_t total_ltdc_pins = LCD_TOTAL_PINS;

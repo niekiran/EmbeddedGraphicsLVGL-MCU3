@@ -61,7 +61,7 @@
 extern  GPIO_TypeDef *ltdc_io_ports[];
 extern const uint8_t ltdc_pins[];
 extern const uint8_t total_ltdc_pins;
-
+extern const uint8_t ltdc_af_values[];
 
 void BSP_LCD_Init(void);
 uint32_t bsp_lcd_get_fb_address(void);
