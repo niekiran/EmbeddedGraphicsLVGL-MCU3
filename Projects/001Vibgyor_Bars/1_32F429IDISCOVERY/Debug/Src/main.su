@@ -1,0 +1,5 @@
+../Src/main.c:43:5:main	16	static
+../Src/main.c:73:6:LTDC_Pin_Init	16	static
+../Src/main.c:95:6:LTDC_Init	24	static
+../Src/main.c:126:6:LTDC_Layer_Init	64	static
+../Src/main.c:189:6:SystemClock_Setup	24	static

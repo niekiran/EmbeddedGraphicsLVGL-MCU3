@@ -1,0 +1,7 @@
+../Src/bsp_lcd_ex.c:23:10:bsp_lcd_get_fb_address	1
+../Src/bsp_lcd_ex.c:30:10:Convert_RGB888_to_RGB565	1
+../Src/bsp_lcd_ex.c:44:6:write_to_fb_rgb565	2
+../Src/bsp_lcd_ex.c:52:6:write_to_fb_rgb888	1
+../Src/bsp_lcd_ex.c:57:6:write_to_fb_rgb666	1
+../Src/bsp_lcd_ex.c:62:6:bsp_lcd_set_fb_background_color	1
+../Src/bsp_lcd_ex.c:85:6:bsp_lcd_fill_rect	4
