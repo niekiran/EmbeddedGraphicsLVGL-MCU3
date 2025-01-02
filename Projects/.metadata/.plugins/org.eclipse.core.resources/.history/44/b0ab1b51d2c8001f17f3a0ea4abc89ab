@@ -179,8 +179,8 @@ void LTDC_Layer_Init(LTDC_Layer_TypeDef *pLayer)
 
 	REG_SET_VAL(pLayer->CFBLNR,BSP_LTDC_LAYER_HEIGHT,0x7FFU,LTDC_LxCFBLNR_CFBLNBR_Pos);
 
-	//7. Enable the layer
-	REG_SET_BIT(pLayer->CR,LTDC_LxCR_LEN_Pos);
+	//7. Activate immediate reload
+	REG_SET_BIT(LTDC->SRCR,LTDC_SRCR_IMR);
 
 	//8. Activate immediate reload after enabling the layer
 	REG_SET_BIT(pLTDC->SRCR,LTDC_SRCR_IMR_Pos);

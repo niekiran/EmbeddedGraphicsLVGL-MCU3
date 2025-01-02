@@ -39,15 +39,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, READONLY, DEBUGGING, OCTETS
  17 .debug_macro  0003237a  00000000  00000000  000047e7  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 18 .debug_line   000016cd  00000000  00000000  00036b61  2**0
+ 18 .debug_line   000016af  00000000  00000000  00036b61  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 19 .debug_str    0009127b  00000000  00000000  0003822e  2**0
+ 19 .debug_str    0009127b  00000000  00000000  00038210  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 20 .comment      00000043  00000000  00000000  000c94a9  2**0
+ 20 .comment      00000043  00000000  00000000  000c948b  2**0
                   CONTENTS, READONLY
- 21 .debug_frame  000003a0  00000000  00000000  000c94ec  2**2
+ 21 .debug_frame  000003a0  00000000  00000000  000c94d0  2**2
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 22 .debug_line_str 0000008b  00000000  00000000  000c988c  2**0
+ 22 .debug_line_str 0000008b  00000000  00000000  000c9870  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
 
 Disassembly of section .text:
@@ -1567,9 +1567,7 @@ int main(void)
  8000b74:	00ff7f00 	.word	0x00ff7f00
 
 08000b78 <LTDC_Pin_Init>:
-			REG_SET_VAL(ltdc_io_ports[i]->AFR[1],14U,0xFU,((ltdc_pins[i] % 8) * 4U));
-	}
-}*/
+}
 
 void LTDC_Pin_Init(void)
 {
@@ -2213,21 +2211,21 @@ void LTDC_Layer_Init(LTDC_Layer_TypeDef *pLayer)
  800105c:	687b      	ldr	r3, [r7, #4]
  800105e:	631a      	str	r2, [r3, #48]	@ 0x30
 
-	//7. Activate immediate reload
-	REG_SET_BIT(LTDC->SRCR,LTDC_SRCR_IMR);
- 8001060:	4b07      	ldr	r3, [pc, #28]	@ (8001080 <LTDC_Layer_Init+0x1b8>)
- 8001062:	6a5b      	ldr	r3, [r3, #36]	@ 0x24
- 8001064:	4a06      	ldr	r2, [pc, #24]	@ (8001080 <LTDC_Layer_Init+0x1b8>)
- 8001066:	f043 0302 	orr.w	r3, r3, #2
- 800106a:	6253      	str	r3, [r2, #36]	@ 0x24
-
-	//8. Enable the layer
+	//7. Enable the layer
 	REG_SET_BIT(pLayer->CR,LTDC_LxCR_LEN_Pos);
- 800106c:	687b      	ldr	r3, [r7, #4]
- 800106e:	681b      	ldr	r3, [r3, #0]
+ 8001060:	687b      	ldr	r3, [r7, #4]
+ 8001062:	681b      	ldr	r3, [r3, #0]
+ 8001064:	f043 0201 	orr.w	r2, r3, #1
+ 8001068:	687b      	ldr	r3, [r7, #4]
+ 800106a:	601a      	str	r2, [r3, #0]
+
+	//8. Activate immediate reload after enabling the layer
+	REG_SET_BIT(pLTDC->SRCR,LTDC_SRCR_IMR_Pos);
+ 800106c:	6b7b      	ldr	r3, [r7, #52]	@ 0x34
+ 800106e:	6a5b      	ldr	r3, [r3, #36]	@ 0x24
  8001070:	f043 0201 	orr.w	r2, r3, #1
- 8001074:	687b      	ldr	r3, [r7, #4]
- 8001076:	601a      	str	r2, [r3, #0]
+ 8001074:	6b7b      	ldr	r3, [r7, #52]	@ 0x34
+ 8001076:	625a      	str	r2, [r3, #36]	@ 0x24
 
 }
  8001078:	bf00      	nop
