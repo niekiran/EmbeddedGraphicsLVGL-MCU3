@@ -1,0 +1,7 @@
+C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lvgl/src/hal/../draw/../misc/lv_color.h:603:26:lv_color_make	1
+C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lvgl/src/hal/../draw/../misc/lv_color.h:703:26:lv_color_black	1
+C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lvgl/src/core/lv_disp.h:184:26:lv_scr_act	1
+C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lvgl/src/widgets/slider/lv_slider.h:104:20:lv_slider_set_range	1
+C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lvgl/src/widgets/slider/lv_slider.h:128:23:lv_slider_get_value	1
+../Core/Src/rgb_mixer.c:13:6:slider_callback	4
+../Core/Src/rgb_mixer.c:33:6:rgb_mixer_create_ui	1

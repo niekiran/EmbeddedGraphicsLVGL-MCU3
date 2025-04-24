@@ -1,0 +1,7 @@
+../lvgl/examples/widgets/btn/../../../src/hal/../draw/../misc/lv_color.h:603:26:lv_color_make	16	static
+../lvgl/examples/widgets/btn/../../../src/hal/../draw/../misc/lv_color.h:699:26:lv_color_white	8	static
+../lvgl/examples/widgets/btn/../../../src/hal/../draw/../misc/lv_style.h:517:20:lv_style_set_pad_all	16	static
+../lvgl/examples/widgets/btn/../../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	16	static
+../lvgl/examples/widgets/btn/../../../src/core/lv_obj_style.h:92:20:lv_obj_remove_style_all	16	static
+../lvgl/examples/widgets/btn/../../../src/core/lv_disp.h:184:26:lv_scr_act	8	static
+../lvgl/examples/widgets/btn/lv_example_btn_2.c:7:6:lv_example_btn_2	24	static

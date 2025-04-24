@@ -1,0 +1,9 @@
+../lvgl/src/misc/lv_mem.c:63:8:lv_malloc	72	static
+../lvgl/src/misc/lv_mem.c:98:6:lv_free	24	static
+../lvgl/src/misc/lv_mem.c:114:8:lv_realloc	40	static
+../lvgl/src/misc/lv_mem.c:135:8:lv_memcpy	24	static
+../lvgl/src/misc/lv_mem.c:140:6:lv_memset	24	static
+../lvgl/src/misc/lv_mem.c:145:8:lv_strlen	16	static
+../lvgl/src/misc/lv_mem.c:150:8:lv_strncpy	24	static
+../lvgl/src/misc/lv_mem.c:155:10:lv_mem_test	16	static
+../lvgl/src/misc/lv_mem.c:169:6:lv_mem_monitor	16	static

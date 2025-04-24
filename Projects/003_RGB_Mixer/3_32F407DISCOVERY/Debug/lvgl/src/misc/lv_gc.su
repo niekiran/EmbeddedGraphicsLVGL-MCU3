@@ -1,0 +1,2 @@
+../lvgl/src/misc/lv_mem.h:82:20:lv_memzero	16	static
+../lvgl/src/misc/lv_gc.c:39:6:_lv_gc_clear_roots	8	static

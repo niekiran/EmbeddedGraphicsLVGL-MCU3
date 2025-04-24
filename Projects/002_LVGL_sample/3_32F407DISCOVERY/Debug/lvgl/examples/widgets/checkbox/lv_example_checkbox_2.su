@@ -1,0 +1,5 @@
+../lvgl/examples/widgets/checkbox/../../../src/hal/../draw/../misc/../font/../misc/lv_area.h:286:26:lv_pct	16	static
+../lvgl/examples/widgets/checkbox/../../../src/core/lv_disp.h:184:26:lv_scr_act	8	static
+../lvgl/examples/widgets/checkbox/lv_example_checkbox_2.c:9:13:radio_event_handler	32	static
+../lvgl/examples/widgets/checkbox/lv_example_checkbox_2.c:28:13:radiobutton_create	24	static
+../lvgl/examples/widgets/checkbox/lv_example_checkbox_2.c:40:6:lv_example_checkbox_2	64	static

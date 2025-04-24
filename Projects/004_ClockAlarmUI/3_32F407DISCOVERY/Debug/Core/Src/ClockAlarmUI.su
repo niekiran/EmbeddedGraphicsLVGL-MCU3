@@ -1,0 +1,12 @@
+../Core/Src/ClockAlarmUI.c:28:13:integertime_to_string	32	static
+../Core/Src/ClockAlarmUI.c:38:6:ClockAlarmUI_update_current_time	40	static
+../Core/Src/ClockAlarmUI.c:50:6:ClockAlarmUI_update_current_date	24	static
+../Core/Src/ClockAlarmUI.c:64:6:ClockAlarmUI_process_event	208	static
+../Core/Src/ClockAlarmUI.c:310:6:ClockAlarmUI_ctor	16	static
+../Core/Src/ClockAlarmUI.c:322:17:convert_24hformat_to_12h	24	static
+../Core/Src/ClockAlarmUI.c:345:17:convert_12hformat_to_24h	24	static
+../Core/Src/ClockAlarmUI.c:358:16:get_day_of_week	40	static
+../Core/Src/ClockAlarmUI.c:372:6:is_settings_date_changed	24	static
+../Core/Src/ClockAlarmUI.c:383:6:is_settings_time_changed	32	static
+../Core/Src/ClockAlarmUI.c:392:6:is_settings_alarm_changed	32	static
+../Core/Src/ClockAlarmUI.c:402:13:is_settings_changed	16	static

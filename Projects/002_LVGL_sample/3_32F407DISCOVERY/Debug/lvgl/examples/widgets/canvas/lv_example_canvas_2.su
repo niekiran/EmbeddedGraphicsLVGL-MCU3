@@ -1,0 +1,3 @@
+../lvgl/examples/widgets/canvas/../../../src/hal/../draw/../misc/lv_color.h:608:26:lv_color_hex	24	static
+../lvgl/examples/widgets/canvas/../../../src/core/lv_disp.h:184:26:lv_scr_act	8	static
+../lvgl/examples/widgets/canvas/lv_example_canvas_2.c:10:6:lv_example_canvas_2	40	static

@@ -1,0 +1,7 @@
+../lvgl/src/hal/../misc/lv_mem.h:82:20:lv_memzero	16	static
+../lvgl/src/hal/lv_hal_indev.c:57:6:lv_indev_drv_init	16	static
+../lvgl/src/hal/lv_hal_indev.c:76:14:lv_indev_drv_register	48	static
+../lvgl/src/hal/lv_hal_indev.c:106:6:lv_indev_drv_update	40	static
+../lvgl/src/hal/lv_hal_indev.c:133:6:lv_indev_delete	32	static
+../lvgl/src/hal/lv_hal_indev.c:152:14:lv_indev_get_next	16	static
+../lvgl/src/hal/lv_hal_indev.c:165:6:_lv_indev_read	24	static

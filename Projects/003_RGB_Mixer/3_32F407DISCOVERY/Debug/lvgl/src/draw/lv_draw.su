@@ -1,0 +1,2 @@
+../lvgl/src/draw/lv_draw.c:40:6:lv_draw_init	4	static
+../lvgl/src/draw/lv_draw.c:45:6:lv_draw_wait_for_finish	16	static

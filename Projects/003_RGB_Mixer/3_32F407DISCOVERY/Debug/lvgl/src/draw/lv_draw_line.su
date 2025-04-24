@@ -1,0 +1,5 @@
+../lvgl/src/draw/../core/../misc/lv_mem.h:82:20:lv_memzero	16	static
+../lvgl/src/draw/../core/../misc/lv_color.h:603:26:lv_color_make	16	static
+../lvgl/src/draw/../core/../misc/lv_color.h:703:26:lv_color_black	8	static
+../lvgl/src/draw/lv_draw_line.c:37:28:lv_draw_line_dsc_init	24	static
+../lvgl/src/draw/lv_draw_line.c:45:28:lv_draw_line	32	static

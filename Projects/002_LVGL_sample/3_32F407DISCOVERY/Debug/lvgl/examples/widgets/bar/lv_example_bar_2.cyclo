@@ -1,0 +1,5 @@
+../lvgl/examples/widgets/bar/../../../src/hal/../draw/../misc/lv_style.h:517:20:lv_style_set_pad_all	1
+../lvgl/examples/widgets/bar/../../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	1
+../lvgl/examples/widgets/bar/../../../src/core/lv_obj_style.h:92:20:lv_obj_remove_style_all	1
+../lvgl/examples/widgets/bar/../../../src/core/lv_disp.h:184:26:lv_scr_act	1
+../lvgl/examples/widgets/bar/lv_example_bar_2.c:7:6:lv_example_bar_2	1

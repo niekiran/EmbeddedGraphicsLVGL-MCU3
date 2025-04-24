@@ -1,0 +1,5 @@
+../Core/Src/../../lvgl/src/lv_api_map.h:35:51:lv_task_handler	1
+../Core/Src/main.c:69:5:main	5
+../Core/Src/main.c:137:6:SystemClock_Config	3
+../Core/Src/main.c:184:13:MX_GPIO_Init	1
+../Core/Src/main.c:323:6:Error_Handler	1

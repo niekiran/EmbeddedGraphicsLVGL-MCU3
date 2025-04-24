@@ -1,0 +1,8 @@
+../lvgl/src/widgets/tileview/lv_tileview.c:54:12:lv_tileview_create	32	static
+../lvgl/src/widgets/tileview/lv_tileview.c:66:12:lv_tileview_add_tile	32	static
+../lvgl/src/widgets/tileview/lv_tileview.c:78:6:lv_obj_set_tile	40	static
+../lvgl/src/widgets/tileview/lv_tileview.c:91:6:lv_obj_set_tile_id	64	static
+../lvgl/src/widgets/tileview/lv_tileview.c:115:12:lv_tileview_get_tile_act	24	static
+../lvgl/src/widgets/tileview/lv_tileview.c:125:13:lv_tileview_constructor	16	static
+../lvgl/src/widgets/tileview/lv_tileview.c:136:13:lv_tileview_tile_constructor	32	static
+../lvgl/src/widgets/tileview/lv_tileview.c:154:13:tileview_event_cb	72	static

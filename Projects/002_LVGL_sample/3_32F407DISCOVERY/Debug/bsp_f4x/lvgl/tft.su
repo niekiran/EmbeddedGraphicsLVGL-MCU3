@@ -1,0 +1,6 @@
+../bsp_f4x/lvgl/tft.c:64:6:monitor_cb	24	static
+../bsp_f4x/lvgl/tft.c:72:6:tft_init	16	static
+../bsp_f4x/lvgl/tft.c:108:13:tft_flush	56	static
+../bsp_f4x/lvgl/tft.c:167:7:DMA_TransferComplete	16	static
+../bsp_f4x/lvgl/tft.c:199:7:DMA_TransferError	16	static
+../bsp_f4x/lvgl/tft.c:211:13:Error_Handler	4	static

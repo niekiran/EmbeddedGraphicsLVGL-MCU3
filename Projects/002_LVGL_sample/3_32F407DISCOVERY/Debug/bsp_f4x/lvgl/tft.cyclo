@@ -1,0 +1,6 @@
+../bsp_f4x/lvgl/tft.c:64:6:monitor_cb	1
+../bsp_f4x/lvgl/tft.c:72:6:tft_init	1
+../bsp_f4x/lvgl/tft.c:108:13:tft_flush	10
+../bsp_f4x/lvgl/tft.c:167:7:DMA_TransferComplete	1
+../bsp_f4x/lvgl/tft.c:199:7:DMA_TransferError	1
+../bsp_f4x/lvgl/tft.c:211:13:Error_Handler	1

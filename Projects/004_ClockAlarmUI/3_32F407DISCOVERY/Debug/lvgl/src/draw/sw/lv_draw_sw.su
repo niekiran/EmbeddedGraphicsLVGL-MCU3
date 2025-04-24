@@ -1,0 +1,9 @@
+../lvgl/src/draw/sw/../../misc/../font/../misc/lv_area.h:123:26:lv_area_get_width	16	static
+../lvgl/src/draw/sw/../../misc/lv_mem.h:82:20:lv_memzero	16	static
+../lvgl/src/draw/sw/../../misc/lv_color.h:390:24:lv_color_to32	24	static
+../lvgl/src/draw/sw/../../misc/lv_color.h:595:23:lv_color_brightness	24	static
+../lvgl/src/draw/sw/lv_draw_sw.c:42:6:lv_draw_sw_init_ctx	24	static
+../lvgl/src/draw/sw/lv_draw_sw.c:68:6:lv_draw_sw_deinit_ctx	24	static
+../lvgl/src/draw/sw/lv_draw_sw.c:76:6:lv_draw_sw_wait_for_finish	16	static
+../lvgl/src/draw/sw/lv_draw_sw.c:82:6:lv_draw_sw_buffer_copy	40	static
+../lvgl/src/draw/sw/lv_draw_sw.c:107:6:lv_draw_sw_buffer_convert	72	static

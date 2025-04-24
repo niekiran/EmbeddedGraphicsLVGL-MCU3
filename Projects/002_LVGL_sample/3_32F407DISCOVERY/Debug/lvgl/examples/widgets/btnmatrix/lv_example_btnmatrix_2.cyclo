@@ -1,0 +1,9 @@
+../lvgl/examples/widgets/btnmatrix/../../../src/hal/../draw/../misc/../font/../misc/lv_area.h:123:26:lv_area_get_width	1
+../lvgl/examples/widgets/btnmatrix/../../../src/hal/../draw/../misc/../font/../misc/lv_area.h:133:26:lv_area_get_height	1
+../lvgl/examples/widgets/btnmatrix/../../../src/hal/../draw/../misc/lv_color.h:603:26:lv_color_make	1
+../lvgl/examples/widgets/btnmatrix/../../../src/hal/../draw/../misc/lv_color.h:699:26:lv_color_white	1
+../lvgl/examples/widgets/btnmatrix/../../../src/hal/../draw/../misc/lv_color.h:703:26:lv_color_black	1
+../lvgl/examples/widgets/btnmatrix/../../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	1
+../lvgl/examples/widgets/btnmatrix/../../../src/core/lv_disp.h:184:26:lv_scr_act	1
+../lvgl/examples/widgets/btnmatrix/lv_example_btnmatrix_2.c:5:13:event_cb	15
+../lvgl/examples/widgets/btnmatrix/lv_example_btnmatrix_2.c:71:6:lv_example_btnmatrix_2	1

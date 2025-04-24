@@ -1,0 +1,5 @@
+../lvgl/src/draw/../misc/lv_mem.h:82:20:lv_memzero	16	static
+../lvgl/src/draw/lv_draw_layer.c:37:23:lv_draw_layer_create	48	static
+../lvgl/src/draw/lv_draw_layer.c:64:6:lv_draw_layer_adjust	24	static
+../lvgl/src/draw/lv_draw_layer.c:70:6:lv_draw_layer_blend	24	static
+../lvgl/src/draw/lv_draw_layer.c:76:6:lv_draw_layer_destroy	16	static

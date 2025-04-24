@@ -1,0 +1,4 @@
+../lvgl/examples/widgets/label/../../../src/misc/lv_anim.h:158:20:lv_anim_set_delay	1
+../lvgl/examples/widgets/label/../../../src/misc/lv_anim.h:277:20:lv_anim_set_repeat_delay	1
+../lvgl/examples/widgets/label/../../../src/core/lv_disp.h:184:26:lv_scr_act	1
+../lvgl/examples/widgets/label/lv_example_label_5.c:8:6:lv_example_label_5	1

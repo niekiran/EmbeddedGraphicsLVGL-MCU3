@@ -96,8 +96,8 @@
 #define LCD_RESX_PORT			GPIOD
 #define LCD_DCX_PIN				MCU_GPIO_PIN_9
 #define LCD_DCX_PORT			GPIOD
-#define LCD_CSX_PORT			GPIOB
-#define LCD_CSX_PIN				MCU_GPIO_PIN_9
+#define LCD_CSX_PORT			GPIOD
+#define LCD_CSX_PIN				MCU_GPIO_PIN_11
 
 
 #endif /* BOARD_H_ */

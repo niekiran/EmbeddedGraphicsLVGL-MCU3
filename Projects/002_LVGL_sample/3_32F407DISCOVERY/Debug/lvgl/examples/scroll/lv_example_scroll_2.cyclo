@@ -1,0 +1,5 @@
+../lvgl/examples/scroll/../../src/hal/../draw/../misc/../font/../misc/lv_area.h:286:26:lv_pct	2
+../lvgl/examples/scroll/../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	1
+../lvgl/examples/scroll/../../src/core/lv_disp.h:184:26:lv_scr_act	1
+../lvgl/examples/scroll/lv_example_scroll_2.c:4:13:sw_event_cb	3
+../lvgl/examples/scroll/lv_example_scroll_2.c:20:6:lv_example_scroll_2	3

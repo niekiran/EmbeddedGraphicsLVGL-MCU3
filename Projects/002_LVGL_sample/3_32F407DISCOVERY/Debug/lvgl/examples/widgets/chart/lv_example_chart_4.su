@@ -1,0 +1,7 @@
+../lvgl/examples/widgets/chart/../../../src/hal/../draw/../misc/lv_color.h:603:26:lv_color_make	16	static
+../lvgl/examples/widgets/chart/../../../src/hal/../draw/../misc/lv_color.h:699:26:lv_color_white	8	static
+../lvgl/examples/widgets/chart/../../../src/hal/../draw/../misc/lv_color.h:703:26:lv_color_black	8	static
+../lvgl/examples/widgets/chart/../../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	16	static
+../lvgl/examples/widgets/chart/../../../src/core/lv_disp.h:184:26:lv_scr_act	8	static
+../lvgl/examples/widgets/chart/lv_example_chart_4.c:5:13:event_cb	136	static
+../lvgl/examples/widgets/chart/lv_example_chart_4.c:62:6:lv_example_chart_4	24	static

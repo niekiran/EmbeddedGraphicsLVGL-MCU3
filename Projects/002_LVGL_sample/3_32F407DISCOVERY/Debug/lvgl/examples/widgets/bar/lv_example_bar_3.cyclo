@@ -1,0 +1,10 @@
+../lvgl/examples/widgets/bar/../../../src/misc/lv_anim.h:126:20:lv_anim_set_var	1
+../lvgl/examples/widgets/bar/../../../src/misc/lv_anim.h:138:20:lv_anim_set_exec_cb	1
+../lvgl/examples/widgets/bar/../../../src/misc/lv_anim.h:148:20:lv_anim_set_time	1
+../lvgl/examples/widgets/bar/../../../src/misc/lv_anim.h:169:20:lv_anim_set_values	1
+../lvgl/examples/widgets/bar/../../../src/misc/lv_anim.h:247:20:lv_anim_set_playback_time	1
+../lvgl/examples/widgets/bar/../../../src/misc/lv_anim.h:267:20:lv_anim_set_repeat_count	1
+../lvgl/examples/widgets/bar/../../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	1
+../lvgl/examples/widgets/bar/../../../src/core/lv_disp.h:184:26:lv_scr_act	1
+../lvgl/examples/widgets/bar/lv_example_bar_3.c:4:13:set_temp	1
+../lvgl/examples/widgets/bar/lv_example_bar_3.c:12:6:lv_example_bar_3	1

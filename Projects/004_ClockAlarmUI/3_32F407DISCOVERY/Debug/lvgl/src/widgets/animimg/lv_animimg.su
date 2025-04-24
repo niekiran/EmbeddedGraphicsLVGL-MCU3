@@ -1,0 +1,13 @@
+../lvgl/src/widgets/animimg/../img/../../core/../misc/lv_anim.h:127:20:lv_anim_set_var	16	static
+../lvgl/src/widgets/animimg/../img/../../core/../misc/lv_anim.h:139:20:lv_anim_set_exec_cb	16	static
+../lvgl/src/widgets/animimg/../img/../../core/../misc/lv_anim.h:149:20:lv_anim_set_time	16	static
+../lvgl/src/widgets/animimg/../img/../../core/../misc/lv_anim.h:170:20:lv_anim_set_values	24	static
+../lvgl/src/widgets/animimg/../img/../../core/../misc/lv_anim.h:258:20:lv_anim_set_playback_delay	16	static
+../lvgl/src/widgets/animimg/../img/../../core/../misc/lv_anim.h:268:20:lv_anim_set_repeat_count	16	static
+../lvgl/src/widgets/animimg/lv_animimg.c:59:12:lv_animimg_create	32	static
+../lvgl/src/widgets/animimg/lv_animimg.c:67:6:lv_animimg_set_src	32	static
+../lvgl/src/widgets/animimg/lv_animimg.c:76:6:lv_animimg_start	24	static
+../lvgl/src/widgets/animimg/lv_animimg.c:87:6:lv_animimg_set_duration	24	static
+../lvgl/src/widgets/animimg/lv_animimg.c:95:6:lv_animimg_set_repeat_count	24	static
+../lvgl/src/widgets/animimg/lv_animimg.c:110:13:lv_animimg_constructor	24	static
+../lvgl/src/widgets/animimg/lv_animimg.c:128:13:index_change	24	static

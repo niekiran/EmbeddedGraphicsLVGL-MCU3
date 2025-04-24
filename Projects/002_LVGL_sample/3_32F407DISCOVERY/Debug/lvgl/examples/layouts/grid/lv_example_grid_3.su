@@ -1,0 +1,3 @@
+../lvgl/examples/layouts/grid/../../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	16	static
+../lvgl/examples/layouts/grid/../../../src/core/lv_disp.h:184:26:lv_scr_act	8	static
+../lvgl/examples/layouts/grid/lv_example_grid_3.c:7:6:lv_example_grid_3	48	static

@@ -1,0 +1,16 @@
+../lvgl/src/misc/lv_ll.c:47:6:_lv_ll_init	1
+../lvgl/src/misc/lv_ll.c:67:8:_lv_ll_ins_head	4
+../lvgl/src/misc/lv_ll.c:96:8:_lv_ll_ins_prev	6
+../lvgl/src/misc/lv_ll.c:126:8:_lv_ll_ins_tail	4
+../lvgl/src/misc/lv_ll.c:154:6:_lv_ll_remove	6
+../lvgl/src/misc/lv_ll.c:191:6:_lv_ll_clear	2
+../lvgl/src/misc/lv_ll.c:217:6:_lv_ll_chg_list	6
+../lvgl/src/misc/lv_ll.c:256:8:_lv_ll_get_head	2
+../lvgl/src/misc/lv_ll.c:267:8:_lv_ll_get_tail	2
+../lvgl/src/misc/lv_ll.c:279:8:_lv_ll_get_next	1
+../lvgl/src/misc/lv_ll.c:294:8:_lv_ll_get_prev	1
+../lvgl/src/misc/lv_ll.c:308:10:_lv_ll_get_len	2
+../lvgl/src/misc/lv_ll.c:326:6:_lv_ll_move_before	6
+../lvgl/src/misc/lv_ll.c:359:6:_lv_ll_is_empty	4
+../lvgl/src/misc/lv_ll.c:378:13:node_set_prev	2
+../lvgl/src/misc/lv_ll.c:398:13:node_set_next	2

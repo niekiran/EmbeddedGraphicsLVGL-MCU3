@@ -1,0 +1,7 @@
+../lvgl/examples/widgets/chart/../../../src/core/lv_obj_style.h:231:20:lv_obj_set_style_size	1
+../lvgl/examples/widgets/chart/../../../src/core/lv_disp.h:184:26:lv_scr_act	1
+../lvgl/examples/widgets/chart/../../../src/widgets/slider/lv_slider.h:104:20:lv_slider_set_range	1
+../lvgl/examples/widgets/chart/../../../src/widgets/slider/lv_slider.h:128:23:lv_slider_get_value	1
+../lvgl/examples/widgets/chart/lv_example_chart_5.c:49:13:slider_x_event_cb	1
+../lvgl/examples/widgets/chart/lv_example_chart_5.c:56:13:slider_y_event_cb	1
+../lvgl/examples/widgets/chart/lv_example_chart_5.c:68:6:lv_example_chart_5	1

@@ -1,0 +1,9 @@
+../bsp_f4x/tsc/XPT2046.c:58:9:xpt2046_xchg_value	32	static
+../bsp_f4x/tsc/XPT2046.c:65:6:xpt2046_cs	16	static
+../bsp_f4x/tsc/XPT2046.c:75:6:HAL_SPI_MspInit	48	static
+../bsp_f4x/tsc/XPT2046.c:113:13:MX_SPI1_Init	8	static
+../bsp_f4x/tsc/XPT2046.c:149:6:xpt2046_init	32	static
+../bsp_f4x/tsc/XPT2046.c:174:9:xpt2046_irq_pin_read	8	static
+../bsp_f4x/tsc/XPT2046.c:185:6:xpt2046_read	24	static
+../bsp_f4x/tsc/XPT2046.c:240:13:xpt2046_corr	24	static
+../bsp_f4x/tsc/XPT2046.c:277:13:xpt2046_avg	32	static

@@ -1,0 +1,10 @@
+../lvgl/examples/widgets/arc/../../../src/misc/lv_anim.h:126:20:lv_anim_set_var	16	static
+../lvgl/examples/widgets/arc/../../../src/misc/lv_anim.h:138:20:lv_anim_set_exec_cb	16	static
+../lvgl/examples/widgets/arc/../../../src/misc/lv_anim.h:148:20:lv_anim_set_time	16	static
+../lvgl/examples/widgets/arc/../../../src/misc/lv_anim.h:169:20:lv_anim_set_values	24	static
+../lvgl/examples/widgets/arc/../../../src/misc/lv_anim.h:267:20:lv_anim_set_repeat_count	16	static
+../lvgl/examples/widgets/arc/../../../src/misc/lv_anim.h:277:20:lv_anim_set_repeat_delay	16	static
+../lvgl/examples/widgets/arc/../../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	16	static
+../lvgl/examples/widgets/arc/../../../src/core/lv_disp.h:184:26:lv_scr_act	8	static
+../lvgl/examples/widgets/arc/lv_example_arc_2.c:5:13:set_angle	16	static
+../lvgl/examples/widgets/arc/lv_example_arc_2.c:13:6:lv_example_arc_2	80	static

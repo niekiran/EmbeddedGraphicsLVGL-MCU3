@@ -1,0 +1,4 @@
+../lvgl/examples/widgets/textarea/../../../src/core/lv_disp.h:184:26:lv_scr_act	1
+../lvgl/examples/widgets/textarea/lv_example_textarea_1.c:4:13:textarea_event_handler	1
+../lvgl/examples/widgets/textarea/lv_example_textarea_1.c:10:13:btnm_event_handler	3
+../lvgl/examples/widgets/textarea/lv_example_textarea_1.c:22:6:lv_example_textarea_1	1

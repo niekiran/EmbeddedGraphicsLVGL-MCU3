@@ -1,0 +1,15 @@
+../lvgl/src/draw/sw/../../misc/lv_area.h:110:20:lv_area_copy	16	static
+../lvgl/src/draw/sw/../../misc/lv_area.h:123:26:lv_area_get_width	16	static
+../lvgl/src/draw/sw/../../misc/lv_area.h:133:26:lv_area_get_height	16	static
+../lvgl/src/draw/sw/../../misc/lv_mem.h:82:20:lv_memzero	16	static
+../lvgl/src/draw/sw/lv_draw_sw_rect.c:71:6:lv_draw_sw_rect	24	static
+../lvgl/src/draw/sw/lv_draw_sw_rect.c:87:6:lv_draw_sw_bg	24	static
+../lvgl/src/draw/sw/lv_draw_sw_rect.c:104:13:draw_bg	160	static
+../lvgl/src/draw/sw/lv_draw_sw_rect.c:334:13:draw_bg_img	152	static
+../lvgl/src/draw/sw/lv_draw_sw_rect.c:408:13:draw_border	72	static
+../lvgl/src/draw/sw/lv_draw_sw_rect.c:437:35:draw_shadow	216	static
+../lvgl/src/draw/sw/lv_draw_sw_rect.c:957:35:shadow_draw_corner_buf	128	static
+../lvgl/src/draw/sw/lv_draw_sw_rect.c:1044:35:shadow_blur_corner	80	static
+../lvgl/src/draw/sw/lv_draw_sw_rect.c:1118:13:draw_outline	88	static
+../lvgl/src/draw/sw/lv_draw_sw_rect.c:1159:6:draw_border_generic	168	static
+../lvgl/src/draw/sw/lv_draw_sw_rect.c:1384:13:draw_border_simple	64	static

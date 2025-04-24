@@ -1,0 +1,4 @@
+../lvgl/examples/styles/../../src/hal/../draw/../misc/lv_style.h:517:20:lv_style_set_pad_all	16	static
+../lvgl/examples/styles/../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	16	static
+../lvgl/examples/styles/../../src/core/lv_disp.h:184:26:lv_scr_act	8	static
+../lvgl/examples/styles/lv_example_style_8.c:7:6:lv_example_style_8	16	static
