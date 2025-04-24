@@ -1,0 +1,10 @@
+../Core/Src/clock.c:5:6:Clock_update_current_time	16	static
+../Core/Src/clock.c:12:6:Clock_is_alarm	16	static
+../Core/Src/clock.c:16:10:Clock_get_current_time	16	static
+../Core/Src/clock.c:20:9:Clock_get_time_mode	16	static
+../Core/Src/clock.c:24:6:Clock_set_current_time	16	static
+../Core/Src/clock.c:28:6:Clock_set_alarm_time	16	static
+../Core/Src/clock.c:32:6:Clock_set_date	16	static
+../Core/Src/clock.c:39:6:Clock_get_date	16	static
+../Core/Src/clock.c:46:9:Clock_get_am_or_pm	24	static
+../Core/Src/clock.c:63:6:Clock_ctor	16	static

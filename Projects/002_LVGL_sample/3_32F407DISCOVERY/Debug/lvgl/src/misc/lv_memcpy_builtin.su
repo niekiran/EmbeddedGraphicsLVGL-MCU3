@@ -1,0 +1,4 @@
+../lvgl/src/misc/lv_memcpy_builtin.c:55:30:lv_memcpy_builtin	48	static
+../lvgl/src/misc/lv_memcpy_builtin.c:123:28:lv_memset_builtin	40	static
+../lvgl/src/misc/lv_memcpy_builtin.c:153:8:lv_strlen_builtin	24	static
+../lvgl/src/misc/lv_memcpy_builtin.c:161:8:lv_strncpy_builtin	32	static

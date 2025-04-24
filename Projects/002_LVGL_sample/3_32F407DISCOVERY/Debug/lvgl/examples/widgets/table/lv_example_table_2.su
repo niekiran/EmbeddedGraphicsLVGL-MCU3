@@ -1,0 +1,7 @@
+../lvgl/examples/widgets/table/../../../src/hal/../draw/../misc/../font/../misc/lv_area.h:133:26:lv_area_get_height	16	static
+../lvgl/examples/widgets/table/../../../src/hal/../draw/../misc/lv_color.h:603:26:lv_color_make	16	static
+../lvgl/examples/widgets/table/../../../src/hal/../draw/../misc/lv_color.h:699:26:lv_color_white	8	static
+../lvgl/examples/widgets/table/../../../src/core/lv_disp.h:184:26:lv_scr_act	8	static
+../lvgl/examples/widgets/table/lv_example_table_2.c:6:13:draw_event_cb	104	static
+../lvgl/examples/widgets/table/lv_example_table_2.c:41:13:change_event_cb	32	static
+../lvgl/examples/widgets/table/lv_example_table_2.c:56:6:lv_example_table_2	96	static

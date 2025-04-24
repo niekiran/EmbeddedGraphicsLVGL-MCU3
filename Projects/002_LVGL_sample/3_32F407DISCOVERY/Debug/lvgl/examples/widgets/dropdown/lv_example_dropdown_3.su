@@ -1,0 +1,3 @@
+../lvgl/examples/widgets/dropdown/../../../src/core/lv_disp.h:184:26:lv_scr_act	8	static
+../lvgl/examples/widgets/dropdown/lv_example_dropdown_3.c:4:13:event_cb	88	static
+../lvgl/examples/widgets/dropdown/lv_example_dropdown_3.c:15:6:lv_example_dropdown_3	16	static

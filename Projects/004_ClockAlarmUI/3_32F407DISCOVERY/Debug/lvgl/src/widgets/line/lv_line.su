@@ -1,0 +1,7 @@
+../lvgl/src/widgets/line/../../core/lv_obj_style_gen.h:367:26:lv_obj_get_style_line_width	24	static
+../lvgl/src/widgets/line/lv_line.c:54:12:lv_line_create	32	static
+../lvgl/src/widgets/line/lv_line.c:66:6:lv_line_set_points	32	static
+../lvgl/src/widgets/line/lv_line.c:79:6:lv_line_set_y_invert	24	static
+../lvgl/src/widgets/line/lv_line.c:95:6:lv_line_get_y_invert	24	static
+../lvgl/src/widgets/line/lv_line.c:108:13:lv_line_constructor	24	static
+../lvgl/src/widgets/line/lv_line.c:124:13:lv_line_event	104	static

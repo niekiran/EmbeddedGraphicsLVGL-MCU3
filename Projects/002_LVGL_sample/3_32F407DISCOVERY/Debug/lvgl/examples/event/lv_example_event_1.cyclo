@@ -1,0 +1,4 @@
+../lvgl/examples/event/../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	1
+../lvgl/examples/event/../../src/core/lv_disp.h:184:26:lv_scr_act	1
+../lvgl/examples/event/lv_example_event_1.c:4:13:event_cb	1
+../lvgl/examples/event/lv_example_event_1.c:18:6:lv_example_event_1	1

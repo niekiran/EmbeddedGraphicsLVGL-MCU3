@@ -1,0 +1,14 @@
+../lvgl/examples/widgets/meter/../../../src/misc/lv_anim.h:126:20:lv_anim_set_var	16	static
+../lvgl/examples/widgets/meter/../../../src/misc/lv_anim.h:138:20:lv_anim_set_exec_cb	16	static
+../lvgl/examples/widgets/meter/../../../src/misc/lv_anim.h:148:20:lv_anim_set_time	16	static
+../lvgl/examples/widgets/meter/../../../src/misc/lv_anim.h:169:20:lv_anim_set_values	24	static
+../lvgl/examples/widgets/meter/../../../src/misc/lv_anim.h:247:20:lv_anim_set_playback_time	16	static
+../lvgl/examples/widgets/meter/../../../src/misc/lv_anim.h:257:20:lv_anim_set_playback_delay	16	static
+../lvgl/examples/widgets/meter/../../../src/misc/lv_anim.h:267:20:lv_anim_set_repeat_count	16	static
+../lvgl/examples/widgets/meter/../../../src/misc/lv_anim.h:277:20:lv_anim_set_repeat_delay	16	static
+../lvgl/examples/widgets/meter/../../../src/hal/../draw/../misc/lv_color.h:603:26:lv_color_make	16	static
+../lvgl/examples/widgets/meter/../../../src/hal/../draw/../misc/lv_color.h:637:26:lv_color_hex3	16	static
+../lvgl/examples/widgets/meter/../../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	16	static
+../lvgl/examples/widgets/meter/../../../src/core/lv_disp.h:184:26:lv_scr_act	8	static
+../lvgl/examples/widgets/meter/lv_example_meter_2.c:6:13:set_value	16	static
+../lvgl/examples/widgets/meter/lv_example_meter_2.c:15:6:lv_example_meter_2	120	static

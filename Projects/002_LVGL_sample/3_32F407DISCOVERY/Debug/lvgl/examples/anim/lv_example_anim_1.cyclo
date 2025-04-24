@@ -1,0 +1,10 @@
+../lvgl/examples/anim/../../src/misc/lv_anim.h:126:20:lv_anim_set_var	1
+../lvgl/examples/anim/../../src/misc/lv_anim.h:138:20:lv_anim_set_exec_cb	1
+../lvgl/examples/anim/../../src/misc/lv_anim.h:148:20:lv_anim_set_time	1
+../lvgl/examples/anim/../../src/misc/lv_anim.h:169:20:lv_anim_set_values	1
+../lvgl/examples/anim/../../src/misc/lv_anim.h:196:20:lv_anim_set_path_cb	1
+../lvgl/examples/anim/../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	1
+../lvgl/examples/anim/../../src/core/lv_disp.h:184:26:lv_scr_act	1
+../lvgl/examples/anim/lv_example_anim_1.c:4:13:anim_x_cb	1
+../lvgl/examples/anim/lv_example_anim_1.c:9:13:sw_event_cb	2
+../lvgl/examples/anim/lv_example_anim_1.c:40:6:lv_example_anim_1	1

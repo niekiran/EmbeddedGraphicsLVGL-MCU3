@@ -1,0 +1,5 @@
+../lvgl/src/draw/sw/../../misc/lv_area.h:110:20:lv_area_copy	16	static
+../lvgl/src/draw/sw/../../misc/lv_area.h:123:26:lv_area_get_width	16	static
+../lvgl/src/draw/sw/../../misc/lv_mem.h:82:20:lv_memzero	16	static
+../lvgl/src/draw/sw/lv_draw_sw_letter.c:97:6:lv_draw_sw_letter	136	static
+../lvgl/src/draw/sw/lv_draw_sw_letter.c:167:35:draw_letter_normal	184	static

@@ -1,0 +1,8 @@
+../lvgl/examples/widgets/img/../../../src/hal/../draw/../misc/lv_color.h:603:26:lv_color_make	16	static
+../lvgl/examples/widgets/img/../../../src/core/lv_disp.h:184:26:lv_scr_act	8	static
+../lvgl/examples/widgets/img/../../../src/widgets/slider/lv_slider.h:82:20:lv_slider_set_value	24	static
+../lvgl/examples/widgets/img/../../../src/widgets/slider/lv_slider.h:104:20:lv_slider_set_range	24	static
+../lvgl/examples/widgets/img/../../../src/widgets/slider/lv_slider.h:128:23:lv_slider_get_value	16	static
+../lvgl/examples/widgets/img/lv_example_img_2.c:14:6:lv_example_img_2	16	static
+../lvgl/examples/widgets/img/lv_example_img_2.c:41:13:slider_event_cb	32	static
+../lvgl/examples/widgets/img/lv_example_img_2.c:53:19:create_slider	24	static

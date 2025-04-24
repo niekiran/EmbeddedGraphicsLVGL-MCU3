@@ -1,0 +1,4 @@
+../lvgl/examples/get_started/../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	1
+../lvgl/examples/get_started/../../src/core/lv_disp.h:184:26:lv_scr_act	1
+../lvgl/examples/get_started/lv_example_get_started_1.c:4:13:btn_event_cb	2
+../lvgl/examples/get_started/lv_example_get_started_1.c:21:6:lv_example_get_started_1	1

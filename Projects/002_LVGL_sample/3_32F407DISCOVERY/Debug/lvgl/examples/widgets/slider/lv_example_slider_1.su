@@ -1,0 +1,5 @@
+../lvgl/examples/widgets/slider/../../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	16	static
+../lvgl/examples/widgets/slider/../../../src/core/lv_disp.h:184:26:lv_scr_act	8	static
+../lvgl/examples/widgets/slider/../../../src/widgets/slider/lv_slider.h:128:23:lv_slider_get_value	16	static
+../lvgl/examples/widgets/slider/lv_example_slider_1.c:10:6:lv_example_slider_1	24	static
+../lvgl/examples/widgets/slider/lv_example_slider_1.c:24:13:slider_event_cb	40	static

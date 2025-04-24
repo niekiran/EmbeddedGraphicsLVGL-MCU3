@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;F429x_Vibgyor_bars&apos;" deleteContents="false" description="Delete resource &apos;F429x_Vibgyor_bars&apos;" element1="/F429x_Vibgyor_bars" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1745474368319"/>
+</session>

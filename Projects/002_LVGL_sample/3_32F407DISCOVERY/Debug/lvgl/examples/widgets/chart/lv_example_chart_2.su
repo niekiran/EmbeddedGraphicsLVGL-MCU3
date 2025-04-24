@@ -1,0 +1,5 @@
+../lvgl/examples/widgets/chart/../../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	16	static
+../lvgl/examples/widgets/chart/../../../src/core/lv_disp.h:184:26:lv_scr_act	8	static
+../lvgl/examples/widgets/chart/lv_example_chart_2.c:8:13:draw_event_cb	184	static
+../lvgl/examples/widgets/chart/lv_example_chart_2.c:90:13:add_data	24	static
+../lvgl/examples/widgets/chart/lv_example_chart_2.c:104:6:lv_example_chart_2	24	static

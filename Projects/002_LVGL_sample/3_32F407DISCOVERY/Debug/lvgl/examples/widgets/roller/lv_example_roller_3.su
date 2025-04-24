@@ -1,0 +1,11 @@
+../lvgl/examples/widgets/roller/../../../src/hal/../draw/../misc/../font/lv_font.h:124:26:lv_font_get_line_height	16	static
+../lvgl/examples/widgets/roller/../../../src/hal/../draw/../misc/lv_color.h:603:26:lv_color_make	16	static
+../lvgl/examples/widgets/roller/../../../src/hal/../draw/../misc/lv_color.h:699:26:lv_color_white	8	static
+../lvgl/examples/widgets/roller/../../../src/hal/../draw/../misc/lv_color.h:703:26:lv_color_black	8	static
+../lvgl/examples/widgets/roller/../../../src/hal/../draw/../misc/lv_style.h:517:20:lv_style_set_pad_all	16	static
+../lvgl/examples/widgets/roller/../../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	16	static
+../lvgl/examples/widgets/roller/../../../src/core/lv_obj_style_gen.h:463:33:lv_obj_get_style_text_font	24	static
+../lvgl/examples/widgets/roller/../../../src/core/lv_obj_style_gen.h:475:26:lv_obj_get_style_text_line_space	24	static
+../lvgl/examples/widgets/roller/../../../src/core/lv_disp.h:184:26:lv_scr_act	8	static
+../lvgl/examples/widgets/roller/lv_example_roller_3.c:4:13:mask_event_cb	80	static
+../lvgl/examples/widgets/roller/lv_example_roller_3.c:58:6:lv_example_roller_3	16	static

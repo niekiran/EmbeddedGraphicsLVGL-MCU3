@@ -1,0 +1,10 @@
+../lvgl/src/widgets/spinner/../../../src/misc/lv_anim.h:127:20:lv_anim_set_var	16	static
+../lvgl/src/widgets/spinner/../../../src/misc/lv_anim.h:139:20:lv_anim_set_exec_cb	16	static
+../lvgl/src/widgets/spinner/../../../src/misc/lv_anim.h:149:20:lv_anim_set_time	16	static
+../lvgl/src/widgets/spinner/../../../src/misc/lv_anim.h:170:20:lv_anim_set_values	24	static
+../lvgl/src/widgets/spinner/../../../src/misc/lv_anim.h:197:20:lv_anim_set_path_cb	16	static
+../lvgl/src/widgets/spinner/../../../src/misc/lv_anim.h:268:20:lv_anim_set_repeat_count	16	static
+../lvgl/src/widgets/spinner/lv_spinner.c:51:12:lv_spinner_create	32	static
+../lvgl/src/widgets/spinner/lv_spinner.c:66:13:lv_spinner_constructor	96	static
+../lvgl/src/widgets/spinner/lv_spinner.c:93:13:arc_anim_start_angle	16	static
+../lvgl/src/widgets/spinner/lv_spinner.c:99:13:arc_anim_end_angle	16	static

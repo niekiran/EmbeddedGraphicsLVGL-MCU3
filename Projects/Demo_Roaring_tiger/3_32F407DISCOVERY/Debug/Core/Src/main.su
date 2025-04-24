@@ -1,0 +1,5 @@
+../Core/Src/main.c:70:6:write_frame	16	static
+../Core/Src/main.c:83:5:main	8	static
+../Core/Src/main.c:133:6:SystemClock_Config	88	static
+../Core/Src/main.c:180:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:321:6:Error_Handler	4	static,ignoring_inline_asm

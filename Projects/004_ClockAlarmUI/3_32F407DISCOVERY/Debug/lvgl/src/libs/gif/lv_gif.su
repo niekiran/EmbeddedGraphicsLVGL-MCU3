@@ -1,0 +1,6 @@
+../lvgl/src/libs/gif/lv_gif.c:49:12:lv_gif_create	32	static
+../lvgl/src/libs/gif/lv_gif.c:58:6:lv_gif_set_src	32	static
+../lvgl/src/libs/gif/lv_gif.c:98:6:lv_gif_restart	24	static
+../lvgl/src/libs/gif/lv_gif.c:108:13:lv_gif_constructor	24	static
+../lvgl/src/libs/gif/lv_gif.c:118:13:lv_gif_destructor	24	static
+../lvgl/src/libs/gif/lv_gif.c:127:13:next_frame_task_cb	40	static

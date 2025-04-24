@@ -1,0 +1,12 @@
+../lvgl/examples/widgets/list/../../../src/hal/../draw/../misc/../font/../misc/lv_area.h:286:26:lv_pct	2
+../lvgl/examples/widgets/list/../../../src/core/lv_disp.h:184:26:lv_scr_act	1
+../lvgl/examples/widgets/list/../../../src/lv_api_map.h:55:20:lv_obj_move_foreground	1
+../lvgl/examples/widgets/list/../../../src/lv_api_map.h:67:20:lv_obj_move_background	1
+../lvgl/examples/widgets/list/lv_example_list_2.c:12:13:event_handler	5
+../lvgl/examples/widgets/list/lv_example_list_2.c:39:13:event_handler_top	3
+../lvgl/examples/widgets/list/lv_example_list_2.c:49:13:event_handler_up	5
+../lvgl/examples/widgets/list/lv_example_list_2.c:61:13:event_handler_center	4
+../lvgl/examples/widgets/list/lv_example_list_2.c:76:13:event_handler_dn	4
+../lvgl/examples/widgets/list/lv_example_list_2.c:88:13:event_handler_bottom	3
+../lvgl/examples/widgets/list/lv_example_list_2.c:98:13:event_handler_swap	6
+../lvgl/examples/widgets/list/lv_example_list_2.c:115:6:lv_example_list_2	2

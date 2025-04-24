@@ -1,0 +1,4 @@
+../lvgl/examples/styles/../../src/core/lv_disp.h:184:26:lv_scr_act	8	static
+../lvgl/examples/styles/lv_example_style_14.c:9:13:new_theme_apply_cb	16	static
+../lvgl/examples/styles/lv_example_style_14.c:18:13:new_theme_init_and_set	24	static
+../lvgl/examples/styles/lv_example_style_14.c:44:6:lv_example_style_14	16	static

@@ -1,0 +1,6 @@
+../lvgl/src/draw/../misc/lv_mem.h:82:20:lv_memzero	16	static
+../lvgl/src/draw/../misc/lv_color.h:603:26:lv_color_make	16	static
+../lvgl/src/draw/../misc/lv_color.h:703:26:lv_color_black	8	static
+../lvgl/src/draw/lv_draw_arc.c:36:6:lv_draw_arc_dsc_init	24	static
+../lvgl/src/draw/lv_draw_arc.c:44:6:lv_draw_arc	40	static
+../lvgl/src/draw/lv_draw_arc.c:57:6:lv_draw_arc_get_area	32	static

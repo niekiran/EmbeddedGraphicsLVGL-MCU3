@@ -1,0 +1,9 @@
+../lvgl/src/draw/sw/../../misc/lv_area.h:110:20:lv_area_copy	1
+../lvgl/src/draw/sw/../../misc/lv_area.h:123:26:lv_area_get_width	1
+../lvgl/src/draw/sw/../../misc/lv_area.h:133:26:lv_area_get_height	1
+../lvgl/src/draw/sw/lv_draw_sw_arc.c:62:6:lv_draw_sw_arc	22
+../lvgl/src/draw/sw/lv_draw_sw_arc.c:232:13:draw_quarter_0	21
+../lvgl/src/draw/sw/lv_draw_sw_arc.c:299:13:draw_quarter_1	21
+../lvgl/src/draw/sw/lv_draw_sw_arc.c:366:13:draw_quarter_2	21
+../lvgl/src/draw/sw/lv_draw_sw_arc.c:433:13:draw_quarter_3	21
+../lvgl/src/draw/sw/lv_draw_sw_arc.c:501:13:get_rounded_area	3

@@ -1,0 +1,5 @@
+../Core/Src/../../lvgl/src/lv_api_map.h:35:51:lv_task_handler	8	static
+../Core/Src/main.c:69:5:main	16	static
+../Core/Src/main.c:137:6:SystemClock_Config	88	static
+../Core/Src/main.c:184:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:323:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,4 @@
+../lvgl/src/widgets/list/lv_list.c:57:12:lv_list_create	32	static
+../lvgl/src/widgets/list/lv_list.c:66:12:lv_list_add_text	32	static
+../lvgl/src/widgets/list/lv_list.c:77:12:lv_list_add_btn	48	static
+../lvgl/src/widgets/list/lv_list.c:102:14:lv_list_get_btn_text	24	static

@@ -1,6 +1,6 @@
 ################################################################################
 # Automatically-generated file. Do not edit!
-# Toolchain: GNU Tools for STM32 (10.3-2021.10)
+# Toolchain: GNU Tools for STM32 (13.3.rel1)
 ################################################################################
 
 -include ../makefile.init
@@ -61,8 +61,8 @@ all: main-build
 main-build: F407x_Roaring_tiger_demo.elf secondary-outputs
 
 # Tool invocations
-F407x_Roaring_tiger_demo.elf F407x_Roaring_tiger_demo.map: $(OBJS) $(USER_OBJS) D:\fastbit\courses\mcu3\git\EmbeddedGraphicsLVGL-MCU3\Projects\Demo_Roaring_tiger\3_32F407DISCOVERY\STM32F407VGTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "F407x_Roaring_tiger_demo.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"D:\fastbit\courses\mcu3\git\EmbeddedGraphicsLVGL-MCU3\Projects\Demo_Roaring_tiger\3_32F407DISCOVERY\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="F407x_Roaring_tiger_demo.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+F407x_Roaring_tiger_demo.elf F407x_Roaring_tiger_demo.map: $(OBJS) $(USER_OBJS) C:\Users\shrey\STM32CubeIDE\EmbeddedGraphicsLVGL-MCU3\Projects\Demo_Roaring_tiger\3_32F407DISCOVERY\STM32F407VGTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "F407x_Roaring_tiger_demo.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\shrey\STM32CubeIDE\EmbeddedGraphicsLVGL-MCU3\Projects\Demo_Roaring_tiger\3_32F407DISCOVERY\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="F407x_Roaring_tiger_demo.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

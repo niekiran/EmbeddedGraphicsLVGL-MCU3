@@ -1,0 +1,11 @@
+../lvgl/src/misc/lv_mem.h:82:20:lv_memzero	16	static
+../lvgl/src/misc/lv_lru.c:73:12:lv_lru_create	40	static
+../lvgl/src/misc/lv_lru.c:103:6:lv_lru_del	48	static
+../lvgl/src/misc/lv_lru.c:139:14:lv_lru_set	48	static
+../lvgl/src/misc/lv_lru.c:192:14:lv_lru_get	40	static
+../lvgl/src/misc/lv_lru.c:215:14:lv_lru_remove	40	static
+../lvgl/src/misc/lv_lru.c:237:6:lv_lru_remove_lru_item	48	static
+../lvgl/src/misc/lv_lru.c:269:17:lv_lru_hash	48	static
+../lvgl/src/misc/lv_lru.c:304:12:lv_lru_cmp_keys	24	static
+../lvgl/src/misc/lv_lru.c:314:13:lv_lru_remove_item	24	static
+../lvgl/src/misc/lv_lru.c:334:24:lv_lru_pop_or_create_item	24	static

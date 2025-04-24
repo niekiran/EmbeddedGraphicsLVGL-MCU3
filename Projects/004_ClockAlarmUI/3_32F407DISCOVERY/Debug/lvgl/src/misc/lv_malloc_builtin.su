@@ -1,0 +1,8 @@
+../lvgl/src/misc/lv_malloc_builtin.c:72:6:lv_mem_init_builtin	8	static
+../lvgl/src/misc/lv_malloc_builtin.c:91:6:lv_mem_deinit_builtin	8	static
+../lvgl/src/misc/lv_malloc_builtin.c:97:6:lv_mem_monitor_builtin	24	static
+../lvgl/src/misc/lv_malloc_builtin.c:120:8:lv_malloc_builtin	16	static
+../lvgl/src/misc/lv_malloc_builtin.c:127:8:lv_realloc_builtin	16	static
+../lvgl/src/misc/lv_malloc_builtin.c:132:6:lv_free_builtin	24	static
+../lvgl/src/misc/lv_malloc_builtin.c:142:10:lv_mem_test_builtin	16	static
+../lvgl/src/misc/lv_malloc_builtin.c:162:13:lv_mem_walker	32	static

@@ -1,0 +1,5 @@
+../lvgl/examples/widgets/table/../../../src/hal/../draw/../misc/lv_color.h:454:48:lv_color_mix	1
+../lvgl/examples/widgets/table/../../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	1
+../lvgl/examples/widgets/table/../../../src/core/lv_disp.h:184:26:lv_scr_act	1
+../lvgl/examples/widgets/table/lv_example_table_1.c:4:13:draw_part_event_cb	7
+../lvgl/examples/widgets/table/lv_example_table_1.c:33:6:lv_example_table_1	1

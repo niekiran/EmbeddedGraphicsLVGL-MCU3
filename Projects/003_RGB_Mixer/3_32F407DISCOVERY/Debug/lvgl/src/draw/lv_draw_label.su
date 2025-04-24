@@ -1,0 +1,10 @@
+../lvgl/src/draw/../misc/../font/../misc/lv_area.h:123:26:lv_area_get_width	16	static
+../lvgl/src/draw/../misc/../font/lv_font.h:124:26:lv_font_get_line_height	16	static
+../lvgl/src/draw/../misc/lv_mem.h:82:20:lv_memzero	16	static
+../lvgl/src/draw/../misc/lv_color.h:603:26:lv_color_make	16	static
+../lvgl/src/draw/../misc/lv_color.h:703:26:lv_color_black	8	static
+../lvgl/src/draw/../misc/lv_bidi.h:129:20:lv_bidi_calculate_align	24	static
+../lvgl/src/draw/lv_draw_label.c:55:6:lv_draw_label_dsc_init	24	static
+../lvgl/src/draw/lv_draw_label.c:77:28:lv_draw_label	312	static
+../lvgl/src/draw/lv_draw_label.c:364:6:lv_draw_letter	32	static
+../lvgl/src/draw/lv_draw_label.c:380:16:hex_char_to_num	24	static

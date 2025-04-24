@@ -1,0 +1,3 @@
+../lvgl/examples/scroll/../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	16	static
+../lvgl/examples/scroll/../../src/core/lv_disp.h:184:26:lv_scr_act	8	static
+../lvgl/examples/scroll/lv_example_scroll_1.c:7:6:lv_example_scroll_1	24	static

@@ -1,0 +1,4 @@
+../lvgl/examples/widgets/span/../../../src/hal/../draw/../misc/lv_style.h:517:20:lv_style_set_pad_all	1
+../lvgl/examples/widgets/span/../../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	1
+../lvgl/examples/widgets/span/../../../src/core/lv_disp.h:184:26:lv_scr_act	1
+../lvgl/examples/widgets/span/lv_example_span_1.c:7:6:lv_example_span_1	1

@@ -1,0 +1,10 @@
+../lvgl/src/themes/mono/../../../src/hal/../draw/../misc/lv_color.h:603:26:lv_color_make	16	static
+../lvgl/src/themes/mono/../../../src/hal/../draw/../misc/lv_color.h:699:26:lv_color_white	8	static
+../lvgl/src/themes/mono/../../../src/hal/../draw/../misc/lv_color.h:703:26:lv_color_black	8	static
+../lvgl/src/themes/mono/../../../src/hal/../draw/../misc/lv_style.h:539:20:lv_style_set_pad_all	16	static
+../lvgl/src/themes/mono/../../../src/hal/../draw/../misc/lv_style.h:559:20:lv_style_set_pad_gap	16	static
+../lvgl/src/themes/mono/lv_theme_mono.c:77:13:style_init	24	static
+../lvgl/src/themes/mono/lv_theme_mono.c:167:6:lv_theme_mono_is_inited	4	static
+../lvgl/src/themes/mono/lv_theme_mono.c:172:14:lv_theme_mono_init	24	static
+../lvgl/src/themes/mono/lv_theme_mono.c:200:13:theme_apply	24	static
+../lvgl/src/themes/mono/lv_theme_mono.c:494:13:style_init_reset	16	static

@@ -1,0 +1,8 @@
+../lvgl/src/font/lv_font_fmt_txt.c:79:17:lv_font_get_bitmap_fmt_txt	4
+../lvgl/src/font/lv_font_fmt_txt.c:148:6:lv_font_get_glyph_dsc_fmt_txt	7
+../lvgl/src/font/lv_font_fmt_txt.c:195:6:_lv_font_clean_up_fmt_txt	1
+../lvgl/src/font/lv_font_fmt_txt.c:209:17:get_glyph_dsc_id	14
+../lvgl/src/font/lv_font_fmt_txt.c:270:15:get_kern_value	8
+../lvgl/src/font/lv_font_fmt_txt.c:326:16:kern_pair_8_compare	2
+../lvgl/src/font/lv_font_fmt_txt.c:337:16:kern_pair_16_compare	2
+../lvgl/src/font/lv_font_fmt_txt.c:591:16:unicode_list_compare	1

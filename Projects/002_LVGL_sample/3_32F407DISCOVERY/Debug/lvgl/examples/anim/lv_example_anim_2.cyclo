@@ -1,0 +1,13 @@
+../lvgl/examples/anim/../../src/misc/lv_anim.h:126:20:lv_anim_set_var	1
+../lvgl/examples/anim/../../src/misc/lv_anim.h:138:20:lv_anim_set_exec_cb	1
+../lvgl/examples/anim/../../src/misc/lv_anim.h:148:20:lv_anim_set_time	1
+../lvgl/examples/anim/../../src/misc/lv_anim.h:169:20:lv_anim_set_values	1
+../lvgl/examples/anim/../../src/misc/lv_anim.h:196:20:lv_anim_set_path_cb	1
+../lvgl/examples/anim/../../src/misc/lv_anim.h:247:20:lv_anim_set_playback_time	1
+../lvgl/examples/anim/../../src/misc/lv_anim.h:257:20:lv_anim_set_playback_delay	1
+../lvgl/examples/anim/../../src/misc/lv_anim.h:267:20:lv_anim_set_repeat_count	1
+../lvgl/examples/anim/../../src/misc/lv_anim.h:277:20:lv_anim_set_repeat_delay	1
+../lvgl/examples/anim/../../src/core/lv_disp.h:184:26:lv_scr_act	1
+../lvgl/examples/anim/lv_example_anim_2.c:5:13:anim_x_cb	1
+../lvgl/examples/anim/lv_example_anim_2.c:10:13:anim_size_cb	1
+../lvgl/examples/anim/lv_example_anim_2.c:18:6:lv_example_anim_2	1

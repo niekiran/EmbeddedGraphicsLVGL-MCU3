@@ -1,0 +1,17 @@
+../lvgl/src/misc/lv_timer.c:55:6:_lv_timer_core_init	1
+../lvgl/src/misc/lv_timer.c:67:37:lv_timer_handler	15
+../lvgl/src/misc/lv_timer.c:153:14:lv_timer_create_basic	1
+../lvgl/src/misc/lv_timer.c:167:14:lv_timer_create	3
+../lvgl/src/misc/lv_timer.c:192:6:lv_timer_set_cb	1
+../lvgl/src/misc/lv_timer.c:201:6:lv_timer_del	1
+../lvgl/src/misc/lv_timer.c:213:6:lv_timer_pause	1
+../lvgl/src/misc/lv_timer.c:218:6:lv_timer_resume	1
+../lvgl/src/misc/lv_timer.c:228:6:lv_timer_set_period	1
+../lvgl/src/misc/lv_timer.c:237:6:lv_timer_ready	1
+../lvgl/src/misc/lv_timer.c:247:6:lv_timer_set_repeat_count	1
+../lvgl/src/misc/lv_timer.c:257:6:lv_timer_reset	1
+../lvgl/src/misc/lv_timer.c:266:6:lv_timer_enable	1
+../lvgl/src/misc/lv_timer.c:275:9:lv_timer_get_idle	1
+../lvgl/src/misc/lv_timer.c:285:14:lv_timer_get_next	2
+../lvgl/src/misc/lv_timer.c:300:13:lv_timer_exec	8
+../lvgl/src/misc/lv_timer.c:334:17:lv_timer_time_remaining	2

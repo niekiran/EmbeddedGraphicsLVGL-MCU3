@@ -1,0 +1,6 @@
+../lvgl/examples/scroll/../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	1
+../lvgl/examples/scroll/../../src/core/lv_obj_style_gen.h:121:26:lv_obj_get_style_pad_right	1
+../lvgl/examples/scroll/../../src/core/lv_disp.h:184:26:lv_scr_act	1
+../lvgl/examples/scroll/../../src/lv_api_map.h:55:20:lv_obj_move_foreground	1
+../lvgl/examples/scroll/lv_example_scroll_3.c:6:13:float_btn_event_cb	2
+../lvgl/examples/scroll/lv_example_scroll_3.c:27:6:lv_example_scroll_3	2

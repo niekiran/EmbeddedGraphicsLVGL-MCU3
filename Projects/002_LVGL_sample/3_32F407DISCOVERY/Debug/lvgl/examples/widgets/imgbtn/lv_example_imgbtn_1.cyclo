@@ -1,0 +1,5 @@
+../lvgl/examples/widgets/imgbtn/../../../src/hal/../draw/../misc/lv_color.h:603:26:lv_color_make	1
+../lvgl/examples/widgets/imgbtn/../../../src/hal/../draw/../misc/lv_color.h:699:26:lv_color_white	1
+../lvgl/examples/widgets/imgbtn/../../../src/hal/../draw/../misc/lv_color.h:703:26:lv_color_black	1
+../lvgl/examples/widgets/imgbtn/../../../src/core/lv_disp.h:184:26:lv_scr_act	1
+../lvgl/examples/widgets/imgbtn/lv_example_imgbtn_1.c:4:6:lv_example_imgbtn_1	1

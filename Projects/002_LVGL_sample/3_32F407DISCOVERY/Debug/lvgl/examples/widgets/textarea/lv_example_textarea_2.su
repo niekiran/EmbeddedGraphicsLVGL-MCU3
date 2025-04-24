@@ -1,0 +1,4 @@
+../lvgl/examples/widgets/textarea/../../../src/hal/../draw/../misc/../font/../misc/lv_area.h:286:26:lv_pct	16	static
+../lvgl/examples/widgets/textarea/../../../src/core/lv_disp.h:184:26:lv_scr_act	8	static
+../lvgl/examples/widgets/textarea/lv_example_textarea_2.c:8:6:lv_example_textarea_2	40	static
+../lvgl/examples/widgets/textarea/lv_example_textarea_2.c:45:13:ta_event_cb	24	static
