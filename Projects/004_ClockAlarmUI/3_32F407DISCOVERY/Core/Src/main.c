@@ -96,7 +96,7 @@ int main(void)
 
   lv_init();
   tft_init();
-  lv_disp_set_rotation(lv_disp_get_default(), LV_DISP_ROT_270);
+  lv_disp_set_rotation(lv_disp_get_default(), LV_DISP_ROT_90);
   touchpad_init();
 
   ClockAlarmUI_ctor(&ClockAlarmUI_inst);

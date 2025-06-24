@@ -563,3 +563,63 @@ org.eclipse.core.runtime.CoreException: Cannot determine URI for '/F429x_Vibgyor
 
 !ENTRY org.eclipse.cdt.core 1 0 2025-04-24 11:39:32.546
 !MESSAGE Indexed 'F407x_Vibgyor_Bars' (4 sources, 63 headers) in 0.572 sec: 3,580 declarations; 6,399 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.02%)
+!SESSION 2025-06-24 14:42:38.657 -----------------------------------------------
+eclipse.buildId=Version 1.18.1
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-06-24 14:42:46.682
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-06-24 14:42:52.719
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-06-24 14:42:52.720
+!MESSAGE Log4j2 initialized with config file C:\Users\shrey\STM32CubeIDE\EmbeddedGraphicsLVGL-MCU3\Projects\.metadata\.log4j2.xml
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 4 0 2025-06-24 14:42:54.159
+!MESSAGE Missing superclass "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_mcu.1103562786.1542169249" for "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_mcu.1103562786.1542169249.215119080"
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 4 0 2025-06-24 14:42:54.161
+!MESSAGE Missing superclass "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_cpuid.2117625808.256884766" for "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_cpuid.2117625808.256884766.1398223212"
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 4 0 2025-06-24 14:42:54.161
+!MESSAGE Missing superclass "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_coreid.1597746373.1874541900" for "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_coreid.1597746373.1874541900.262408906"
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 4 0 2025-06-24 14:42:54.161
+!MESSAGE Missing superclass "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.fpu.797112083.1142514148" for "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.fpu.797112083.1142514148.683807746"
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 4 0 2025-06-24 14:42:54.162
+!MESSAGE Missing superclass "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.floatabi.1056955381.1280525038" for "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.floatabi.1056955381.1280525038.432816979"
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 4 0 2025-06-24 14:42:54.163
+!MESSAGE Missing superclass "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_board.555333159.652706046" for "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_board.555333159.652706046.712635524"
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 4 0 2025-06-24 14:42:54.163
+!MESSAGE Missing superclass "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.defaults.2137986270.1163899627" for "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.defaults.2137986270.1163899627.2103785894"
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 4 0 2025-06-24 14:42:58.155
+!MESSAGE Missing superclass "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_mcu.1103562786.1542169249" for "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_mcu.1103562786.1542169249.215119080"
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 4 0 2025-06-24 14:42:58.157
+!MESSAGE Missing superclass "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_cpuid.2117625808.256884766" for "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_cpuid.2117625808.256884766.1398223212"
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 4 0 2025-06-24 14:42:58.159
+!MESSAGE Missing superclass "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_coreid.1597746373.1874541900" for "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_coreid.1597746373.1874541900.262408906"
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 4 0 2025-06-24 14:42:58.160
+!MESSAGE Missing superclass "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.fpu.797112083.1142514148" for "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.fpu.797112083.1142514148.683807746"
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 4 0 2025-06-24 14:42:58.162
+!MESSAGE Missing superclass "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.floatabi.1056955381.1280525038" for "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.floatabi.1056955381.1280525038.432816979"
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 4 0 2025-06-24 14:42:58.164
+!MESSAGE Missing superclass "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_board.555333159.652706046" for "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_board.555333159.652706046.712635524"
+
+!ENTRY org.eclipse.cdt.managedbuilder.core 4 0 2025-06-24 14:42:58.165
+!MESSAGE Missing superclass "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.defaults.2137986270.1163899627" for "com.st.stm32cube.ide.mcu.gnu.managedbuild.option.defaults.2137986270.1163899627.2103785894"
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-06-24 14:43:15.238
+!MESSAGE Started RMI Server, listening on port 41337

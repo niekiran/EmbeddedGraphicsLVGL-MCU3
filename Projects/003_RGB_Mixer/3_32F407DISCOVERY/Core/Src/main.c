@@ -92,7 +92,7 @@ int main(void)
 
   lv_init();
   tft_init();
-  lv_disp_set_rotation(lv_disp_get_default(), LV_DISP_ROT_270);
+  lv_disp_set_rotation(lv_disp_get_default(), LV_DISP_ROT_90);
   touchpad_init();
   //lv_example_label_1();
   //lv_example_dropdown_1();

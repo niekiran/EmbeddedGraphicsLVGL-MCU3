@@ -6,7 +6,7 @@
 #ifndef XPT2046_H
 #define XPT2046_H
 
-#define USE_XPT2046 1
+#define USE_XPT2046 0
 
 #ifdef __cplusplus
 extern "C" {

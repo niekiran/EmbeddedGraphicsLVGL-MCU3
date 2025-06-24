@@ -5,12 +5,15 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
+../bsp_f4x/tsc/FT6336U.c \
 ../bsp_f4x/tsc/XPT2046.c 
 
 OBJS += \
+./bsp_f4x/tsc/FT6336U.o \
 ./bsp_f4x/tsc/XPT2046.o 
 
 C_DEPS += \
+./bsp_f4x/tsc/FT6336U.d \
 ./bsp_f4x/tsc/XPT2046.d 
 
 
@@ -21,7 +24,7 @@ bsp_f4x/tsc/%.o bsp_f4x/tsc/%.su bsp_f4x/tsc/%.cyclo: ../bsp_f4x/tsc/%.c bsp_f4x
 clean: clean-bsp_f4x-2f-tsc
 
 clean-bsp_f4x-2f-tsc:
-	-$(RM) ./bsp_f4x/tsc/XPT2046.cyclo ./bsp_f4x/tsc/XPT2046.d ./bsp_f4x/tsc/XPT2046.o ./bsp_f4x/tsc/XPT2046.su
+	-$(RM) ./bsp_f4x/tsc/FT6336U.cyclo ./bsp_f4x/tsc/FT6336U.d ./bsp_f4x/tsc/FT6336U.o ./bsp_f4x/tsc/FT6336U.su ./bsp_f4x/tsc/XPT2046.cyclo ./bsp_f4x/tsc/XPT2046.d ./bsp_f4x/tsc/XPT2046.o ./bsp_f4x/tsc/XPT2046.su
 
 .PHONY: clean-bsp_f4x-2f-tsc
 

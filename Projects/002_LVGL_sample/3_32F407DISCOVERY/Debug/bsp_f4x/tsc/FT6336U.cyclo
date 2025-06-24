@@ -1,0 +1,11 @@
+../bsp_f4x/tsc/FT6336U.c:56:6:HAL_I2C_MspInit	2
+../bsp_f4x/tsc/FT6336U.c:96:6:HAL_I2C_MspDeInit	2
+../bsp_f4x/tsc/FT6336U.c:123:13:MX_I2C1_Init	2
+../bsp_f4x/tsc/FT6336U.c:143:6:ft6336u_init	2
+../bsp_f4x/tsc/FT6336U.c:169:9:ft6336u_irq_pin_read	1
+../bsp_f4x/tsc/FT6336U.c:179:26:ft6336u_write_reg	1
+../bsp_f4x/tsc/FT6336U.c:187:19:ft6336u_config	8
+../bsp_f4x/tsc/FT6336U.c:239:19:ft6336u_read_touch	6
+../bsp_f4x/tsc/FT6336U.c:283:6:ft6336u_read	5
+../bsp_f4x/tsc/FT6336U.c:345:13:ft6336u_corr	3
+../bsp_f4x/tsc/FT6336U.c:381:13:ft6336u_avg	4
