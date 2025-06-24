@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;F407x_ClockAlarmUI/bsp_f4x/tsc/tsc&apos;" deleteContents="false" description="Delete resource &apos;F407x_ClockAlarmUI/bsp_f4x/tsc/tsc&apos;" element1="/F407x_ClockAlarmUI/bsp_f4x/tsc/tsc" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1750756443303"/>
+</session>
