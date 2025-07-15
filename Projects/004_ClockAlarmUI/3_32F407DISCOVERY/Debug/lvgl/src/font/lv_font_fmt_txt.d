@@ -1,7 +1,7 @@
 lvgl/src/font/lv_font_fmt_txt.o: ../lvgl/src/font/lv_font_fmt_txt.c \
  ../lvgl/src/font/lv_font.h ../lvgl/src/font/../lv_conf_internal.h \
  ../lvgl/src/font/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/font/lv_symbol_def.h ../lvgl/src/font/../misc/lv_area.h \
  ../lvgl/src/font/../misc/../lv_conf_internal.h \
  ../lvgl/src/font/lv_font_fmt_txt.h ../lvgl/src/font/../misc/lv_assert.h \
@@ -32,7 +32,7 @@ lvgl/src/font/lv_font_fmt_txt.o: ../lvgl/src/font/lv_font_fmt_txt.c \
 ../lvgl/src/font/lv_font.h:
 ../lvgl/src/font/../lv_conf_internal.h:
 ../lvgl/src/font/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/font/lv_symbol_def.h:
 ../lvgl/src/font/../misc/lv_area.h:
 ../lvgl/src/font/../misc/../lv_conf_internal.h:

@@ -2,7 +2,7 @@ lvgl/src/widgets/label/lv_label.o: ../lvgl/src/widgets/label/lv_label.c \
  ../lvgl/src/widgets/label/lv_label.h \
  ../lvgl/src/widgets/label/../../lv_conf_internal.h \
  ../lvgl/src/widgets/label/../../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/widgets/label/../../core/lv_obj.h \
  ../lvgl/src/widgets/label/../../core/../lv_conf_internal.h \
  ../lvgl/src/widgets/label/../../core/../misc/lv_style.h \
@@ -99,7 +99,7 @@ lvgl/src/widgets/label/lv_label.o: ../lvgl/src/widgets/label/lv_label.c \
 ../lvgl/src/widgets/label/lv_label.h:
 ../lvgl/src/widgets/label/../../lv_conf_internal.h:
 ../lvgl/src/widgets/label/../../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/widgets/label/../../core/lv_obj.h:
 ../lvgl/src/widgets/label/../../core/../lv_conf_internal.h:
 ../lvgl/src/widgets/label/../../core/../misc/lv_style.h:

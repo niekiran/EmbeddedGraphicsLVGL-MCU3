@@ -4,7 +4,7 @@ lvgl/src/widgets/calendar/lv_calendar_header_arrow.o: \
  ../lvgl/src/widgets/calendar/../../core/lv_obj.h \
  ../lvgl/src/widgets/calendar/../../core/../lv_conf_internal.h \
  ../lvgl/src/widgets/calendar/../../core/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/widgets/calendar/../../core/../misc/lv_style.h \
  ../lvgl/src/widgets/calendar/../../core/../misc/../font/lv_font.h \
  ../lvgl/src/widgets/calendar/../../core/../misc/../font/../lv_conf_internal.h \
@@ -104,7 +104,7 @@ lvgl/src/widgets/calendar/lv_calendar_header_arrow.o: \
 ../lvgl/src/widgets/calendar/../../core/lv_obj.h:
 ../lvgl/src/widgets/calendar/../../core/../lv_conf_internal.h:
 ../lvgl/src/widgets/calendar/../../core/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/widgets/calendar/../../core/../misc/lv_style.h:
 ../lvgl/src/widgets/calendar/../../core/../misc/../font/lv_font.h:
 ../lvgl/src/widgets/calendar/../../core/../misc/../font/../lv_conf_internal.h:

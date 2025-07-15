@@ -1,7 +1,7 @@
 lvgl/src/core/lv_group.o: ../lvgl/src/core/lv_group.c \
  ../lvgl/src/core/lv_group.h ../lvgl/src/core/../lv_conf_internal.h \
  ../lvgl/src/core/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/core/../misc/lv_ll.h ../lvgl/src/core/../misc/lv_types.h \
  ../lvgl/src/core/../misc/lv_gc.h \
  ../lvgl/src/core/../misc/../lv_conf_internal.h \
@@ -98,7 +98,7 @@ lvgl/src/core/lv_group.o: ../lvgl/src/core/lv_group.c \
 ../lvgl/src/core/lv_group.h:
 ../lvgl/src/core/../lv_conf_internal.h:
 ../lvgl/src/core/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/core/../misc/lv_ll.h:
 ../lvgl/src/core/../misc/lv_types.h:
 ../lvgl/src/core/../misc/lv_gc.h:

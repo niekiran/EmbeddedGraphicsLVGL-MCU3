@@ -4,7 +4,7 @@ lvgl/src/widgets/slider/lv_slider.o: \
  ../lvgl/src/widgets/slider/../bar/lv_bar.h \
  ../lvgl/src/widgets/slider/../bar/../../lv_conf_internal.h \
  ../lvgl/src/widgets/slider/../bar/../../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/widgets/slider/../bar/../../core/lv_obj.h \
  ../lvgl/src/widgets/slider/../bar/../../core/../lv_conf_internal.h \
  ../lvgl/src/widgets/slider/../bar/../../core/../misc/lv_style.h \
@@ -114,7 +114,7 @@ lvgl/src/widgets/slider/lv_slider.o: \
 ../lvgl/src/widgets/slider/../bar/lv_bar.h:
 ../lvgl/src/widgets/slider/../bar/../../lv_conf_internal.h:
 ../lvgl/src/widgets/slider/../bar/../../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/widgets/slider/../bar/../../core/lv_obj.h:
 ../lvgl/src/widgets/slider/../bar/../../core/../lv_conf_internal.h:
 ../lvgl/src/widgets/slider/../bar/../../core/../misc/lv_style.h:

@@ -4,7 +4,7 @@ lvgl/src/widgets/roller/lv_roller.o: \
  ../lvgl/src/widgets/roller/../../core/lv_obj.h \
  ../lvgl/src/widgets/roller/../../core/../lv_conf_internal.h \
  ../lvgl/src/widgets/roller/../../core/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/widgets/roller/../../core/../misc/lv_style.h \
  ../lvgl/src/widgets/roller/../../core/../misc/../font/lv_font.h \
  ../lvgl/src/widgets/roller/../../core/../misc/../font/../lv_conf_internal.h \
@@ -101,7 +101,7 @@ lvgl/src/widgets/roller/lv_roller.o: \
 ../lvgl/src/widgets/roller/../../core/lv_obj.h:
 ../lvgl/src/widgets/roller/../../core/../lv_conf_internal.h:
 ../lvgl/src/widgets/roller/../../core/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/widgets/roller/../../core/../misc/lv_style.h:
 ../lvgl/src/widgets/roller/../../core/../misc/../font/lv_font.h:
 ../lvgl/src/widgets/roller/../../core/../misc/../font/../lv_conf_internal.h:

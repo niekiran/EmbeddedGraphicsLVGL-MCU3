@@ -2,7 +2,7 @@ lvgl/src/core/lv_obj_scroll.o: ../lvgl/src/core/lv_obj_scroll.c \
  ../lvgl/src/core/lv_obj_scroll.h ../lvgl/src/core/../misc/lv_area.h \
  ../lvgl/src/core/../misc/../lv_conf_internal.h \
  ../lvgl/src/core/../misc/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/core/../misc/lv_anim.h ../lvgl/src/core/../misc/lv_types.h \
  ../lvgl/src/core/lv_obj.h ../lvgl/src/core/../lv_conf_internal.h \
  ../lvgl/src/core/../misc/lv_style.h \
@@ -71,7 +71,7 @@ lvgl/src/core/lv_obj_scroll.o: ../lvgl/src/core/lv_obj_scroll.c \
 ../lvgl/src/core/../misc/lv_area.h:
 ../lvgl/src/core/../misc/../lv_conf_internal.h:
 ../lvgl/src/core/../misc/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/core/../misc/lv_anim.h:
 ../lvgl/src/core/../misc/lv_types.h:
 ../lvgl/src/core/lv_obj.h:

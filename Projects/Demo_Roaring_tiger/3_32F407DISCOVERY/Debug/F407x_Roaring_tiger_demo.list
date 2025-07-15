@@ -4096,10 +4096,11 @@ static void delay_50ms(void){
  8001a3e:	79fb      	ldrb	r3, [r7, #7]
  8001a40:	2b01      	cmp	r3, #1
  8001a42:	d102      	bne.n	8001a4a <lcd_set_orientation+0x16>
-		param = MADCTL_MV | MADCTL_MY | MADCTL_BGR; /*Memory Access Control <Landscape setting>*/
- 8001a44:	23a8      	movs	r3, #168	@ 0xa8
+		param = MADCTL_MX | MADCTL_MY | MADCTL_MV | MADCTL_BGR;
+ 8001a44:	23e8      	movs	r3, #232	@ 0xe8
  8001a46:	73fb      	strb	r3, [r7, #15]
  8001a48:	e004      	b.n	8001a54 <lcd_set_orientation+0x20>
+		//param = MADCTL_MV | MADCTL_MY | MADCTL_BGR; /*Memory Access Control <Landscape setting>*/
 	}else if(orientation == PORTRAIT){
  8001a4a:	79fb      	ldrb	r3, [r7, #7]
  8001a4c:	2b00      	cmp	r3, #0

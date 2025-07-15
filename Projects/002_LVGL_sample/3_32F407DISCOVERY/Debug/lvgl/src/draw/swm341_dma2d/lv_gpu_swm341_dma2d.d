@@ -4,7 +4,7 @@ lvgl/src/draw/swm341_dma2d/lv_gpu_swm341_dma2d.o: \
  ../lvgl/src/draw/swm341_dma2d/../../misc/lv_color.h \
  ../lvgl/src/draw/swm341_dma2d/../../misc/../lv_conf_internal.h \
  ../lvgl/src/draw/swm341_dma2d/../../misc/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/draw/swm341_dma2d/../../misc/lv_assert.h \
  ../lvgl/src/draw/swm341_dma2d/../../misc/lv_log.h \
  ../lvgl/src/draw/swm341_dma2d/../../misc/lv_types.h \
@@ -99,7 +99,7 @@ lvgl/src/draw/swm341_dma2d/lv_gpu_swm341_dma2d.o: \
 ../lvgl/src/draw/swm341_dma2d/../../misc/lv_color.h:
 ../lvgl/src/draw/swm341_dma2d/../../misc/../lv_conf_internal.h:
 ../lvgl/src/draw/swm341_dma2d/../../misc/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/draw/swm341_dma2d/../../misc/lv_assert.h:
 ../lvgl/src/draw/swm341_dma2d/../../misc/lv_log.h:
 ../lvgl/src/draw/swm341_dma2d/../../misc/lv_types.h:

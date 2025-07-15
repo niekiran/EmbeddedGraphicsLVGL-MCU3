@@ -3,7 +3,7 @@ lvgl/src/widgets/table/lv_table.o: ../lvgl/src/widgets/table/lv_table.c \
  ../lvgl/src/widgets/table/../label/lv_label.h \
  ../lvgl/src/widgets/table/../label/../../lv_conf_internal.h \
  ../lvgl/src/widgets/table/../label/../../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/widgets/table/../label/../../core/lv_obj.h \
  ../lvgl/src/widgets/table/../label/../../core/../lv_conf_internal.h \
  ../lvgl/src/widgets/table/../label/../../core/../misc/lv_style.h \
@@ -104,7 +104,7 @@ lvgl/src/widgets/table/lv_table.o: ../lvgl/src/widgets/table/lv_table.c \
 ../lvgl/src/widgets/table/../label/lv_label.h:
 ../lvgl/src/widgets/table/../label/../../lv_conf_internal.h:
 ../lvgl/src/widgets/table/../label/../../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/widgets/table/../label/../../core/lv_obj.h:
 ../lvgl/src/widgets/table/../label/../../core/../lv_conf_internal.h:
 ../lvgl/src/widgets/table/../label/../../core/../misc/lv_style.h:

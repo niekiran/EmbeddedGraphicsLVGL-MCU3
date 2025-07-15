@@ -2,7 +2,7 @@ lvgl/src/core/lv_indev_scroll.o: ../lvgl/src/core/lv_indev_scroll.c \
  ../lvgl/src/core/lv_indev.h ../lvgl/src/core/lv_obj.h \
  ../lvgl/src/core/../lv_conf_internal.h \
  ../lvgl/src/core/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/core/../misc/lv_style.h \
  ../lvgl/src/core/../misc/../font/lv_font.h \
  ../lvgl/src/core/../misc/../font/../lv_conf_internal.h \
@@ -72,7 +72,7 @@ lvgl/src/core/lv_indev_scroll.o: ../lvgl/src/core/lv_indev_scroll.c \
 ../lvgl/src/core/lv_obj.h:
 ../lvgl/src/core/../lv_conf_internal.h:
 ../lvgl/src/core/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/core/../misc/lv_style.h:
 ../lvgl/src/core/../misc/../font/lv_font.h:
 ../lvgl/src/core/../misc/../font/../lv_conf_internal.h:

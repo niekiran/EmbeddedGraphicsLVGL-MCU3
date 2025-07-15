@@ -2,7 +2,7 @@ lvgl/src/draw/lv_img_cache.o: ../lvgl/src/draw/lv_img_cache.c \
  ../lvgl/src/draw/../misc/lv_assert.h \
  ../lvgl/src/draw/../misc/../lv_conf_internal.h \
  ../lvgl/src/draw/../misc/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/draw/../misc/lv_log.h ../lvgl/src/draw/../misc/lv_types.h \
  ../lvgl/src/draw/../misc/lv_mem.h ../lvgl/src/draw/lv_img_cache.h \
  ../lvgl/src/draw/lv_img_decoder.h ../lvgl/src/draw/../lv_conf_internal.h \
@@ -34,7 +34,7 @@ lvgl/src/draw/lv_img_cache.o: ../lvgl/src/draw/lv_img_cache.c \
 ../lvgl/src/draw/../misc/lv_assert.h:
 ../lvgl/src/draw/../misc/../lv_conf_internal.h:
 ../lvgl/src/draw/../misc/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/draw/../misc/lv_log.h:
 ../lvgl/src/draw/../misc/lv_types.h:
 ../lvgl/src/draw/../misc/lv_mem.h:

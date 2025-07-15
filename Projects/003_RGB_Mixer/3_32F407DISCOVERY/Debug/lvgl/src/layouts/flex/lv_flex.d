@@ -3,7 +3,7 @@ lvgl/src/layouts/flex/lv_flex.o: ../lvgl/src/layouts/flex/lv_flex.c \
  ../lvgl/src/layouts/flex/../../core/lv_obj.h \
  ../lvgl/src/layouts/flex/../../core/../lv_conf_internal.h \
  ../lvgl/src/layouts/flex/../../core/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/layouts/flex/../../core/../misc/lv_style.h \
  ../lvgl/src/layouts/flex/../../core/../misc/../font/lv_font.h \
  ../lvgl/src/layouts/flex/../../core/../misc/../font/../lv_conf_internal.h \
@@ -86,7 +86,7 @@ lvgl/src/layouts/flex/lv_flex.o: ../lvgl/src/layouts/flex/lv_flex.c \
 ../lvgl/src/layouts/flex/../../core/lv_obj.h:
 ../lvgl/src/layouts/flex/../../core/../lv_conf_internal.h:
 ../lvgl/src/layouts/flex/../../core/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/layouts/flex/../../core/../misc/lv_style.h:
 ../lvgl/src/layouts/flex/../../core/../misc/../font/lv_font.h:
 ../lvgl/src/layouts/flex/../../core/../misc/../font/../lv_conf_internal.h:

@@ -3,7 +3,7 @@ lvgl/src/widgets/canvas/lv_canvas.o: \
  ../lvgl/src/widgets/canvas/lv_canvas.h \
  ../lvgl/src/widgets/canvas/../../lv_conf_internal.h \
  ../lvgl/src/widgets/canvas/../../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/widgets/canvas/../img/lv_img.h \
  ../lvgl/src/widgets/canvas/../img/../../lv_conf_internal.h \
  ../lvgl/src/widgets/canvas/../img/../../core/lv_obj.h \
@@ -109,7 +109,7 @@ lvgl/src/widgets/canvas/lv_canvas.o: \
 ../lvgl/src/widgets/canvas/lv_canvas.h:
 ../lvgl/src/widgets/canvas/../../lv_conf_internal.h:
 ../lvgl/src/widgets/canvas/../../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/widgets/canvas/../img/lv_img.h:
 ../lvgl/src/widgets/canvas/../img/../../lv_conf_internal.h:
 ../lvgl/src/widgets/canvas/../img/../../core/lv_obj.h:

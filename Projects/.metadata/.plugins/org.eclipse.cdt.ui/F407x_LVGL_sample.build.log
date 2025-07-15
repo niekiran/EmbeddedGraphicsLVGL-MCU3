@@ -1,10 +1,21 @@
-14:51:20 **** Incremental Build of configuration Debug for project F407x_LVGL_sample ****
+18:58:17 **** Incremental Build of configuration Debug for project F407x_LVGL_sample ****
 make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I"C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/bsp_f4x/lcd" -I"C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/bsp_f4x/lvgl" -I"C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/bsp_f4x/tsc" -I"C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY" -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c:168:13: warning: 'MX_GPIO_Init' defined but not used [-Wunused-function]
+  168 | static void MX_GPIO_Init(void)
+      |             ^~~~~~~~~~~~
+arm-none-eabi-gcc -o "F407x_LVGL_sample.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\bhara\STM32CubeIDE\EmbeddedGraphicsLVGL-MCU3\Projects\002_LVGL_sample\3_32F407DISCOVERY\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="F407x_LVGL_sample.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+C:/ST/STM32CubeIDE_1.18.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/bin/ld.exe: warning: F407x_LVGL_sample.elf has a LOAD segment with RWX permissions
+Finished building target: F407x_LVGL_sample.elf
+ 
 arm-none-eabi-size  F407x_LVGL_sample.elf 
+arm-none-eabi-objdump -h -S F407x_LVGL_sample.elf  > "F407x_LVGL_sample.list"
    text	   data	    bss	    dec	    hex	filename
  325056	    260	  72540	 397856	  61220	F407x_LVGL_sample.elf
 Finished building: default.size.stdout
  
+Finished building: F407x_LVGL_sample.list
+ 
 
-14:51:24 Build Finished. 0 errors, 0 warnings. (took 3s.995ms)
+18:58:27 Build Finished. 0 errors, 2 warnings. (took 10s.67ms)
 

@@ -25,12 +25,12 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/bsp_lcd.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/arm_cm4.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/stm32f407xx.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/reg_util.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/ili9341_reg.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/board.h
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/bsp_lcd.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/arm_cm4.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/stm32f407xx.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/reg_util.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/ili9341_reg.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/board.h
 ../Core/Inc/main.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:
 ../Core/Inc/stm32f4xx_hal_conf.h:
@@ -58,9 +58,9 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/bsp_lcd.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/arm_cm4.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/stm32f407xx.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/reg_util.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/ili9341_reg.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/board.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/bsp_lcd.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/arm_cm4.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/stm32f407xx.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/reg_util.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/ili9341_reg.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd/board.h:

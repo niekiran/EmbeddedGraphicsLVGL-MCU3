@@ -4,7 +4,7 @@ lvgl/src/draw/gd32_ipa/lv_gpu_gd32_ipa.o: \
  ../lvgl/src/draw/gd32_ipa/../../misc/lv_color.h \
  ../lvgl/src/draw/gd32_ipa/../../misc/../lv_conf_internal.h \
  ../lvgl/src/draw/gd32_ipa/../../misc/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/draw/gd32_ipa/../../misc/lv_assert.h \
  ../lvgl/src/draw/gd32_ipa/../../misc/lv_log.h \
  ../lvgl/src/draw/gd32_ipa/../../misc/lv_types.h \
@@ -99,7 +99,7 @@ lvgl/src/draw/gd32_ipa/lv_gpu_gd32_ipa.o: \
 ../lvgl/src/draw/gd32_ipa/../../misc/lv_color.h:
 ../lvgl/src/draw/gd32_ipa/../../misc/../lv_conf_internal.h:
 ../lvgl/src/draw/gd32_ipa/../../misc/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/draw/gd32_ipa/../../misc/lv_assert.h:
 ../lvgl/src/draw/gd32_ipa/../../misc/lv_log.h:
 ../lvgl/src/draw/gd32_ipa/../../misc/lv_types.h:

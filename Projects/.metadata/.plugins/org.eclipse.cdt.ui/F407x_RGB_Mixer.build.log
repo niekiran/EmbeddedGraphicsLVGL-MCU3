@@ -1,4 +1,4 @@
-14:54:03 **** Incremental Build of configuration Debug for project F407x_RGB_Mixer ****
+09:54:31 **** Incremental Build of configuration Debug for project F407x_RGB_Mixer ****
 make -j12 all 
 arm-none-eabi-size  F407x_RGB_Mixer.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size  F407x_RGB_Mixer.elf
 Finished building: default.size.stdout
  
 
-14:54:05 Build Finished. 0 errors, 0 warnings. (took 1s.612ms)
+09:54:34 Build Finished. 0 errors, 0 warnings. (took 2s.319ms)
 

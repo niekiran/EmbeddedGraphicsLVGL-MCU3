@@ -4,7 +4,7 @@ lvgl/src/others/fragment/lv_fragment_manager.o: \
  ../lvgl/src/others/fragment/../../core/lv_obj.h \
  ../lvgl/src/others/fragment/../../core/../lv_conf_internal.h \
  ../lvgl/src/others/fragment/../../core/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/others/fragment/../../core/../misc/lv_style.h \
  ../lvgl/src/others/fragment/../../core/../misc/../font/lv_font.h \
  ../lvgl/src/others/fragment/../../core/../misc/../font/../lv_conf_internal.h \
@@ -87,7 +87,7 @@ lvgl/src/others/fragment/lv_fragment_manager.o: \
 ../lvgl/src/others/fragment/../../core/lv_obj.h:
 ../lvgl/src/others/fragment/../../core/../lv_conf_internal.h:
 ../lvgl/src/others/fragment/../../core/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/others/fragment/../../core/../misc/lv_style.h:
 ../lvgl/src/others/fragment/../../core/../misc/../font/lv_font.h:
 ../lvgl/src/others/fragment/../../core/../misc/../font/../lv_conf_internal.h:

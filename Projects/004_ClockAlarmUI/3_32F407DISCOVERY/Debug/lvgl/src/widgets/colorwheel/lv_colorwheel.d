@@ -6,7 +6,7 @@ lvgl/src/widgets/colorwheel/lv_colorwheel.o: \
  ../lvgl/src/widgets/colorwheel/../../../src/misc/lv_log.h \
  ../lvgl/src/widgets/colorwheel/../../../src/misc/../lv_conf_internal.h \
  ../lvgl/src/widgets/colorwheel/../../../src/misc/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/widgets/colorwheel/../../../src/misc/lv_types.h \
  ../lvgl/src/widgets/colorwheel/../../../src/misc/lv_timer.h \
  ../lvgl/src/widgets/colorwheel/../../../src/misc/../hal/lv_hal_tick.h \
@@ -250,7 +250,7 @@ lvgl/src/widgets/colorwheel/lv_colorwheel.o: \
 ../lvgl/src/widgets/colorwheel/../../../src/misc/lv_log.h:
 ../lvgl/src/widgets/colorwheel/../../../src/misc/../lv_conf_internal.h:
 ../lvgl/src/widgets/colorwheel/../../../src/misc/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/widgets/colorwheel/../../../src/misc/lv_types.h:
 ../lvgl/src/widgets/colorwheel/../../../src/misc/lv_timer.h:
 ../lvgl/src/widgets/colorwheel/../../../src/misc/../hal/lv_hal_tick.h:

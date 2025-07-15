@@ -464,7 +464,8 @@ static void delay_50ms(void){
 	uint8_t param;
 
 	if(orientation == LANDSCAPE){
-		param = MADCTL_MV | MADCTL_MY | MADCTL_BGR; /*Memory Access Control <Landscape setting>*/
+		param = MADCTL_MX | MADCTL_MY | MADCTL_MV | MADCTL_BGR;
+		//param = MADCTL_MV | MADCTL_MY | MADCTL_BGR; /*Memory Access Control <Landscape setting>*/
 	}else if(orientation == PORTRAIT){
 		param = MADCTL_MY| MADCTL_MX| MADCTL_BGR;  /* Memory Access Control <portrait setting> */
 	}
