@@ -31,7 +31,7 @@ Core/Src/stm32f4xx_it.o: ../Core/Src/stm32f4xx_it.c ../Core/Inc/main.h \
  ../Core/Src/../../lvgl/src/misc/lv_log.h \
  ../Core/Src/../../lvgl/src/misc/../lv_conf_internal.h \
  ../Core/Src/../../lvgl/src/misc/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h \
  ../Core/Src/../../lvgl/src/misc/lv_types.h \
  ../Core/Src/../../lvgl/src/misc/lv_timer.h \
  ../Core/Src/../../lvgl/src/misc/../hal/lv_hal_tick.h \
@@ -301,7 +301,7 @@ Core/Src/stm32f4xx_it.o: ../Core/Src/stm32f4xx_it.c ../Core/Inc/main.h \
 ../Core/Src/../../lvgl/src/misc/lv_log.h:
 ../Core/Src/../../lvgl/src/misc/../lv_conf_internal.h:
 ../Core/Src/../../lvgl/src/misc/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h:
 ../Core/Src/../../lvgl/src/misc/lv_types.h:
 ../Core/Src/../../lvgl/src/misc/lv_timer.h:
 ../Core/Src/../../lvgl/src/misc/../hal/lv_hal_tick.h:

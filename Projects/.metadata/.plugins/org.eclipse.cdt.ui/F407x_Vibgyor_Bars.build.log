@@ -1,10 +1,14 @@
-14:54:38 **** Build of configuration Debug for project F407x_Vibgyor_Bars ****
+10:05:26 **** Build of configuration Debug for project F407x_Vibgyor_Bars ****
 make -j12 all 
-arm-none-eabi-gcc "../bsp_f4x/lcd/bsp_lcd.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -I"C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/001Vibgyor_Bars/3_32F407DISCOVERY/bsp_f4x/lcd" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"bsp_f4x/lcd/bsp_lcd.d" -MT"bsp_f4x/lcd/bsp_lcd.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "bsp_f4x/lcd/bsp_lcd.o"
+arm-none-eabi-gcc "../bsp_f4x/lcd/bsp_lcd.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -I"C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/001Vibgyor_Bars/3_32F407DISCOVERY/bsp_f4x/lcd" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"bsp_f4x/lcd/bsp_lcd.d" -MT"bsp_f4x/lcd/bsp_lcd.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "bsp_f4x/lcd/bsp_lcd.o"
 arm-none-eabi-gcc -mcpu=cortex-m4 -g3 -DDEBUG -c -x assembler-with-cpp -MMD -MP -MF"Startup/startup_stm32f407vgtx.d" -MT"Startup/startup_stm32f407vgtx.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Startup/startup_stm32f407vgtx.o" "../Startup/startup_stm32f407vgtx.s"
-arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -I"C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/001Vibgyor_Bars/3_32F407DISCOVERY/bsp_f4x/lcd" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/main.o"
-arm-none-eabi-gcc "../Src/syscalls.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -I"C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/001Vibgyor_Bars/3_32F407DISCOVERY/bsp_f4x/lcd" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/syscalls.d" -MT"Src/syscalls.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/syscalls.o"
-arm-none-eabi-gcc "../Src/sysmem.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -I"C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/001Vibgyor_Bars/3_32F407DISCOVERY/bsp_f4x/lcd" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/sysmem.d" -MT"Src/sysmem.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/sysmem.o"
+arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -I"C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/001Vibgyor_Bars/3_32F407DISCOVERY/bsp_f4x/lcd" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/main.o"
+arm-none-eabi-gcc "../Src/syscalls.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -I"C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/001Vibgyor_Bars/3_32F407DISCOVERY/bsp_f4x/lcd" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/syscalls.d" -MT"Src/syscalls.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/syscalls.o"
+arm-none-eabi-gcc "../Src/sysmem.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F407G_DISC1 -DSTM32F4 -DSTM32F407VGTx -c -I../Inc -I"C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/001Vibgyor_Bars/3_32F407DISCOVERY/bsp_f4x/lcd" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/sysmem.d" -MT"Src/sysmem.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/sysmem.o"
+../Src/main.c: In function 'main':
+../Src/main.c:61:34: warning: variable 'y_start' set but not used [-Wunused-but-set-variable]
+   61 |         uint32_t x_start,x_width,y_start,y_height;
+      |                                  ^~~~~~~
 ../bsp_f4x/lcd/bsp_lcd.c: In function 'bsp_lcd_write':
 ../bsp_f4x/lcd/bsp_lcd.c:75:60: warning: this 'while' clause does not guard... [-Wmisleading-indentation]
    75 | #define __disable_spi()                                 do{while(REG_READ_BIT(SPI->SR,SPI_SR_BSY_Pos)); \
@@ -54,12 +58,8 @@ In file included from ../bsp_f4x/lcd/bsp_lcd.h:13,
 ../bsp_f4x/lcd/bsp_lcd.c:554:9: note: in expansion of macro '__disable_spi'
   554 |         __disable_spi();
       |         ^~~~~~~~~~~~~
-../Src/main.c: In function 'main':
-../Src/main.c:61:34: warning: variable 'y_start' set but not used [-Wunused-but-set-variable]
-   61 |         uint32_t x_start,x_width,y_start,y_height;
-      |                                  ^~~~~~~
-arm-none-eabi-gcc -o "F407x_Vibgyor_Bars.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\shrey\STM32CubeIDE\EmbeddedGraphicsLVGL-MCU3\Projects\001Vibgyor_Bars\3_32F407DISCOVERY\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="F407x_Vibgyor_Bars.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
-C:/ST/STM32CubeIDE_1.18.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/bin/ld.exe: warning: F407x_Vibgyor_Bars.elf has a LOAD segment with RWX permissions
+arm-none-eabi-gcc -o "F407x_Vibgyor_Bars.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\bhara\STM32CubeIDE\EmbeddedGraphicsLVGL-MCU3\Projects\001Vibgyor_Bars\3_32F407DISCOVERY\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="F407x_Vibgyor_Bars.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+C:/ST/STM32CubeIDE_1.18.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/bin/ld.exe: warning: F407x_Vibgyor_Bars.elf has a LOAD segment with RWX permissions
 Finished building target: F407x_Vibgyor_Bars.elf
  
 arm-none-eabi-size  F407x_Vibgyor_Bars.elf 
@@ -71,5 +71,5 @@ Finished building: default.size.stdout
 Finished building: F407x_Vibgyor_Bars.list
  
 
-14:54:39 Build Finished. 0 errors, 5 warnings. (took 807ms)
+10:05:27 Build Finished. 0 errors, 5 warnings. (took 932ms)
 

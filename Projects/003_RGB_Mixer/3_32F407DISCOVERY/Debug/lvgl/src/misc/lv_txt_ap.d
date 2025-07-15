@@ -1,7 +1,7 @@
 lvgl/src/misc/lv_txt_ap.o: ../lvgl/src/misc/lv_txt_ap.c \
  ../lvgl/src/misc/lv_bidi.h ../lvgl/src/misc/../lv_conf_internal.h \
  ../lvgl/src/misc/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/misc/lv_txt.h ../lvgl/src/misc/lv_area.h \
  ../lvgl/src/misc/../font/lv_font.h \
  ../lvgl/src/misc/../font/../lv_conf_internal.h \
@@ -52,7 +52,7 @@ lvgl/src/misc/lv_txt_ap.o: ../lvgl/src/misc/lv_txt_ap.c \
 ../lvgl/src/misc/lv_bidi.h:
 ../lvgl/src/misc/../lv_conf_internal.h:
 ../lvgl/src/misc/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/misc/lv_txt.h:
 ../lvgl/src/misc/lv_area.h:
 ../lvgl/src/misc/../font/lv_font.h:

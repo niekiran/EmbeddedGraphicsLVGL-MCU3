@@ -1,7 +1,7 @@
 lvgl/src/misc/lv_anim.o: ../lvgl/src/misc/lv_anim.c \
  ../lvgl/src/misc/lv_anim.h ../lvgl/src/misc/../lv_conf_internal.h \
  ../lvgl/src/misc/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/misc/../hal/lv_hal_tick.h \
  ../lvgl/src/misc/../hal/../lv_conf_internal.h \
  ../lvgl/src/misc/../hal/lv_hal_disp.h ../lvgl/src/misc/../hal/lv_hal.h \
@@ -68,7 +68,7 @@ lvgl/src/misc/lv_anim.o: ../lvgl/src/misc/lv_anim.c \
 ../lvgl/src/misc/lv_anim.h:
 ../lvgl/src/misc/../lv_conf_internal.h:
 ../lvgl/src/misc/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/misc/../hal/lv_hal_tick.h:
 ../lvgl/src/misc/../hal/../lv_conf_internal.h:
 ../lvgl/src/misc/../hal/lv_hal_disp.h:

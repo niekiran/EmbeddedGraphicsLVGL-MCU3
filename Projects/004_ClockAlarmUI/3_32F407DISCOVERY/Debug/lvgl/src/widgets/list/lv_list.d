@@ -3,7 +3,7 @@ lvgl/src/widgets/list/lv_list.o: ../lvgl/src/widgets/list/lv_list.c \
  ../lvgl/src/widgets/list/../../core/lv_obj.h \
  ../lvgl/src/widgets/list/../../core/../lv_conf_internal.h \
  ../lvgl/src/widgets/list/../../core/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/widgets/list/../../core/../misc/lv_style.h \
  ../lvgl/src/widgets/list/../../core/../misc/../font/lv_font.h \
  ../lvgl/src/widgets/list/../../core/../misc/../font/../lv_conf_internal.h \
@@ -107,7 +107,7 @@ lvgl/src/widgets/list/lv_list.o: ../lvgl/src/widgets/list/lv_list.c \
 ../lvgl/src/widgets/list/../../core/lv_obj.h:
 ../lvgl/src/widgets/list/../../core/../lv_conf_internal.h:
 ../lvgl/src/widgets/list/../../core/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/widgets/list/../../core/../misc/lv_style.h:
 ../lvgl/src/widgets/list/../../core/../misc/../font/lv_font.h:
 ../lvgl/src/widgets/list/../../core/../misc/../font/../lv_conf_internal.h:

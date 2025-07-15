@@ -60,8 +60,8 @@ all: main-build
 main-build: F407x_Vibgyor_Bars.elf secondary-outputs
 
 # Tool invocations
-F407x_Vibgyor_Bars.elf F407x_Vibgyor_Bars.map: $(OBJS) $(USER_OBJS) C:\Users\shrey\STM32CubeIDE\EmbeddedGraphicsLVGL-MCU3\Projects\001Vibgyor_Bars\3_32F407DISCOVERY\STM32F407VGTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "F407x_Vibgyor_Bars.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\shrey\STM32CubeIDE\EmbeddedGraphicsLVGL-MCU3\Projects\001Vibgyor_Bars\3_32F407DISCOVERY\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="F407x_Vibgyor_Bars.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+F407x_Vibgyor_Bars.elf F407x_Vibgyor_Bars.map: $(OBJS) $(USER_OBJS) C:\Users\bhara\STM32CubeIDE\EmbeddedGraphicsLVGL-MCU3\Projects\001Vibgyor_Bars\3_32F407DISCOVERY\STM32F407VGTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "F407x_Vibgyor_Bars.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\bhara\STM32CubeIDE\EmbeddedGraphicsLVGL-MCU3\Projects\001Vibgyor_Bars\3_32F407DISCOVERY\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="F407x_Vibgyor_Bars.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

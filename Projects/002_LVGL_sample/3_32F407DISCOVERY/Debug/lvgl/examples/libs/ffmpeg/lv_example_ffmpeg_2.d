@@ -5,7 +5,7 @@ lvgl/examples/libs/ffmpeg/lv_example_ffmpeg_2.o: \
  ../lvgl/examples/libs/ffmpeg/../../../src/misc/lv_log.h \
  ../lvgl/examples/libs/ffmpeg/../../../src/misc/../lv_conf_internal.h \
  ../lvgl/examples/libs/ffmpeg/../../../src/misc/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/examples/libs/ffmpeg/../../../src/misc/lv_types.h \
  ../lvgl/examples/libs/ffmpeg/../../../src/misc/lv_timer.h \
  ../lvgl/examples/libs/ffmpeg/../../../src/misc/../hal/lv_hal_tick.h \
@@ -272,7 +272,7 @@ lvgl/examples/libs/ffmpeg/lv_example_ffmpeg_2.o: \
 ../lvgl/examples/libs/ffmpeg/../../../src/misc/lv_log.h:
 ../lvgl/examples/libs/ffmpeg/../../../src/misc/../lv_conf_internal.h:
 ../lvgl/examples/libs/ffmpeg/../../../src/misc/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/examples/libs/ffmpeg/../../../src/misc/lv_types.h:
 ../lvgl/examples/libs/ffmpeg/../../../src/misc/lv_timer.h:
 ../lvgl/examples/libs/ffmpeg/../../../src/misc/../hal/lv_hal_tick.h:

@@ -1,10 +1,67 @@
-14:59:06 **** Incremental Build of configuration Debug for project F407x_Roaring_tiger_demo ****
+18:55:48 **** Incremental Build of configuration Debug for project F407x_Roaring_tiger_demo ****
 make -j12 all 
+arm-none-eabi-gcc "../bsp_f4x/lcd/bsp_lcd.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I"C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/Demo_Roaring_tiger/3_32F407DISCOVERY/bsp_f4x/lcd" -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"bsp_f4x/lcd/bsp_lcd.d" -MT"bsp_f4x/lcd/bsp_lcd.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "bsp_f4x/lcd/bsp_lcd.o"
+../bsp_f4x/lcd/bsp_lcd.c: In function 'bsp_lcd_write':
+../bsp_f4x/lcd/bsp_lcd.c:75:60: warning: this 'while' clause does not guard... [-Wmisleading-indentation]
+   75 | #define __disable_spi()                                 do{while(REG_READ_BIT(SPI->SR,SPI_SR_BSY_Pos)); \
+      |                                                            ^~~~~
+../bsp_f4x/lcd/bsp_lcd.c:150:9: note: in expansion of macro '__disable_spi'
+  150 |         __disable_spi();
+      |         ^~~~~~~~~~~~~
+In file included from ../bsp_f4x/lcd/bsp_lcd.h:13,
+                 from ../bsp_f4x/lcd/bsp_lcd.c:9:
+../bsp_f4x/lcd/reg_util.h:16:65: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'while'
+   16 | #define REG_CLR_BIT(reg,pos)                                    ((reg) &= ~(1U << (pos)))
+      |                                                                 ^
+../bsp_f4x/lcd/bsp_lcd.c:76:84: note: in expansion of macro 'REG_CLR_BIT'
+   76 |                                                                                    REG_CLR_BIT(SPI->CR1,SPI_CR1_SPE_Pos);}while(0)
+      |                                                                                    ^~~~~~~~~~~
+../bsp_f4x/lcd/bsp_lcd.c:150:9: note: in expansion of macro '__disable_spi'
+  150 |         __disable_spi();
+      |         ^~~~~~~~~~~~~
+../bsp_f4x/lcd/bsp_lcd.c:75:60: warning: this 'while' clause does not guard... [-Wmisleading-indentation]
+   75 | #define __disable_spi()                                 do{while(REG_READ_BIT(SPI->SR,SPI_SR_BSY_Pos)); \
+      |                                                            ^~~~~
+../bsp_f4x/lcd/bsp_lcd.c:164:9: note: in expansion of macro '__disable_spi'
+  164 |         __disable_spi();
+      |         ^~~~~~~~~~~~~
+../bsp_f4x/lcd/reg_util.h:16:65: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'while'
+   16 | #define REG_CLR_BIT(reg,pos)                                    ((reg) &= ~(1U << (pos)))
+      |                                                                 ^
+../bsp_f4x/lcd/bsp_lcd.c:76:84: note: in expansion of macro 'REG_CLR_BIT'
+   76 |                                                                                    REG_CLR_BIT(SPI->CR1,SPI_CR1_SPE_Pos);}while(0)
+      |                                                                                    ^~~~~~~~~~~
+../bsp_f4x/lcd/bsp_lcd.c:164:9: note: in expansion of macro '__disable_spi'
+  164 |         __disable_spi();
+      |         ^~~~~~~~~~~~~
+../bsp_f4x/lcd/bsp_lcd.c: In function 'lcd_write_dma':
+../bsp_f4x/lcd/bsp_lcd.c:75:60: warning: this 'while' clause does not guard... [-Wmisleading-indentation]
+   75 | #define __disable_spi()                                 do{while(REG_READ_BIT(SPI->SR,SPI_SR_BSY_Pos)); \
+      |                                                            ^~~~~
+../bsp_f4x/lcd/bsp_lcd.c:555:9: note: in expansion of macro '__disable_spi'
+  555 |         __disable_spi();
+      |         ^~~~~~~~~~~~~
+../bsp_f4x/lcd/reg_util.h:16:65: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'while'
+   16 | #define REG_CLR_BIT(reg,pos)                                    ((reg) &= ~(1U << (pos)))
+      |                                                                 ^
+../bsp_f4x/lcd/bsp_lcd.c:76:84: note: in expansion of macro 'REG_CLR_BIT'
+   76 |                                                                                    REG_CLR_BIT(SPI->CR1,SPI_CR1_SPE_Pos);}while(0)
+      |                                                                                    ^~~~~~~~~~~
+../bsp_f4x/lcd/bsp_lcd.c:555:9: note: in expansion of macro '__disable_spi'
+  555 |         __disable_spi();
+      |         ^~~~~~~~~~~~~
+arm-none-eabi-gcc -o "F407x_Roaring_tiger_demo.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\bhara\STM32CubeIDE\EmbeddedGraphicsLVGL-MCU3\Projects\Demo_Roaring_tiger\3_32F407DISCOVERY\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="F407x_Roaring_tiger_demo.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+C:/ST/STM32CubeIDE_1.18.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344/tools/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/bin/ld.exe: warning: F407x_Roaring_tiger_demo.elf has a LOAD segment with RWX permissions
+Finished building target: F407x_Roaring_tiger_demo.elf
+ 
 arm-none-eabi-size  F407x_Roaring_tiger_demo.elf 
+arm-none-eabi-objdump -h -S F407x_Roaring_tiger_demo.elf  > "F407x_Roaring_tiger_demo.list"
    text	   data	    bss	    dec	    hex	filename
  468448	     24	  22088	 490560	  77c40	F407x_Roaring_tiger_demo.elf
 Finished building: default.size.stdout
  
+Finished building: F407x_Roaring_tiger_demo.list
+ 
 
-14:59:06 Build Finished. 0 errors, 0 warnings. (took 196ms)
+18:55:49 Build Finished. 0 errors, 4 warnings. (took 1s.154ms)
 

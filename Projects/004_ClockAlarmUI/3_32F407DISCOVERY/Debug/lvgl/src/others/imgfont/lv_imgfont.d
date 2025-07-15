@@ -5,7 +5,7 @@ lvgl/src/others/imgfont/lv_imgfont.o: \
  ../lvgl/src/others/imgfont/../../../src/misc/lv_log.h \
  ../lvgl/src/others/imgfont/../../../src/misc/../lv_conf_internal.h \
  ../lvgl/src/others/imgfont/../../../src/misc/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/others/imgfont/../../../src/misc/lv_types.h \
  ../lvgl/src/others/imgfont/../../../src/misc/lv_timer.h \
  ../lvgl/src/others/imgfont/../../../src/misc/../hal/lv_hal_tick.h \
@@ -248,7 +248,7 @@ lvgl/src/others/imgfont/lv_imgfont.o: \
 ../lvgl/src/others/imgfont/../../../src/misc/lv_log.h:
 ../lvgl/src/others/imgfont/../../../src/misc/../lv_conf_internal.h:
 ../lvgl/src/others/imgfont/../../../src/misc/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/others/imgfont/../../../src/misc/lv_types.h:
 ../lvgl/src/others/imgfont/../../../src/misc/lv_timer.h:
 ../lvgl/src/others/imgfont/../../../src/misc/../hal/lv_hal_tick.h:

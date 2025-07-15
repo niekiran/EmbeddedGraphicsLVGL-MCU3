@@ -5,7 +5,7 @@ lvgl/examples/widgets/img/lv_example_img_2.o: \
  ../lvgl/examples/widgets/img/../../../src/misc/lv_log.h \
  ../lvgl/examples/widgets/img/../../../src/misc/../lv_conf_internal.h \
  ../lvgl/examples/widgets/img/../../../src/misc/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/examples/widgets/img/../../../src/misc/lv_types.h \
  ../lvgl/examples/widgets/img/../../../src/misc/lv_timer.h \
  ../lvgl/examples/widgets/img/../../../src/misc/../hal/lv_hal_tick.h \
@@ -272,7 +272,7 @@ lvgl/examples/widgets/img/lv_example_img_2.o: \
 ../lvgl/examples/widgets/img/../../../src/misc/lv_log.h:
 ../lvgl/examples/widgets/img/../../../src/misc/../lv_conf_internal.h:
 ../lvgl/examples/widgets/img/../../../src/misc/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/002_LVGL_sample/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/examples/widgets/img/../../../src/misc/lv_types.h:
 ../lvgl/examples/widgets/img/../../../src/misc/lv_timer.h:
 ../lvgl/examples/widgets/img/../../../src/misc/../hal/lv_hal_tick.h:

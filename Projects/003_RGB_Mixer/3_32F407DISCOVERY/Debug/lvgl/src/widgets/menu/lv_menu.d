@@ -3,7 +3,7 @@ lvgl/src/widgets/menu/lv_menu.o: ../lvgl/src/widgets/menu/lv_menu.c \
  ../lvgl/src/widgets/menu/../../core/lv_obj.h \
  ../lvgl/src/widgets/menu/../../core/../lv_conf_internal.h \
  ../lvgl/src/widgets/menu/../../core/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/widgets/menu/../../core/../misc/lv_style.h \
  ../lvgl/src/widgets/menu/../../core/../misc/../font/lv_font.h \
  ../lvgl/src/widgets/menu/../../core/../misc/../font/../lv_conf_internal.h \
@@ -103,7 +103,7 @@ lvgl/src/widgets/menu/lv_menu.o: ../lvgl/src/widgets/menu/lv_menu.c \
 ../lvgl/src/widgets/menu/../../core/lv_obj.h:
 ../lvgl/src/widgets/menu/../../core/../lv_conf_internal.h:
 ../lvgl/src/widgets/menu/../../core/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/widgets/menu/../../core/../misc/lv_style.h:
 ../lvgl/src/widgets/menu/../../core/../misc/../font/lv_font.h:
 ../lvgl/src/widgets/menu/../../core/../misc/../font/../lv_conf_internal.h:

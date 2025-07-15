@@ -4,7 +4,7 @@ lvgl/src/themes/basic/lv_theme_basic.o: \
  ../lvgl/src/themes/basic/../../../src/misc/lv_log.h \
  ../lvgl/src/themes/basic/../../../src/misc/../lv_conf_internal.h \
  ../lvgl/src/themes/basic/../../../src/misc/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/themes/basic/../../../src/misc/lv_types.h \
  ../lvgl/src/themes/basic/../../../src/misc/lv_timer.h \
  ../lvgl/src/themes/basic/../../../src/misc/../hal/lv_hal_tick.h \
@@ -254,7 +254,7 @@ lvgl/src/themes/basic/lv_theme_basic.o: \
 ../lvgl/src/themes/basic/../../../src/misc/lv_log.h:
 ../lvgl/src/themes/basic/../../../src/misc/../lv_conf_internal.h:
 ../lvgl/src/themes/basic/../../../src/misc/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/003_RGB_Mixer/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/themes/basic/../../../src/misc/lv_types.h:
 ../lvgl/src/themes/basic/../../../src/misc/lv_timer.h:
 ../lvgl/src/themes/basic/../../../src/misc/../hal/lv_hal_tick.h:

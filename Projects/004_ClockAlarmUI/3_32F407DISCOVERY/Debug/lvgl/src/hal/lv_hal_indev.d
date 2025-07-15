@@ -2,7 +2,7 @@ lvgl/src/hal/lv_hal_indev.o: ../lvgl/src/hal/lv_hal_indev.c \
  ../lvgl/src/hal/../misc/lv_assert.h \
  ../lvgl/src/hal/../misc/../lv_conf_internal.h \
  ../lvgl/src/hal/../misc/../lv_conf_kconfig.h \
- C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h \
+ C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h \
  ../lvgl/src/hal/../misc/lv_log.h ../lvgl/src/hal/../misc/lv_types.h \
  ../lvgl/src/hal/../misc/lv_mem.h ../lvgl/src/hal/../hal/lv_hal_indev.h \
  ../lvgl/src/hal/../hal/../lv_conf_internal.h \
@@ -93,7 +93,7 @@ lvgl/src/hal/lv_hal_indev.o: ../lvgl/src/hal/lv_hal_indev.c \
 ../lvgl/src/hal/../misc/lv_assert.h:
 ../lvgl/src/hal/../misc/../lv_conf_internal.h:
 ../lvgl/src/hal/../misc/../lv_conf_kconfig.h:
-C:/Users/shrey/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h:
+C:/Users/bhara/STM32CubeIDE/EmbeddedGraphicsLVGL-MCU3/Projects/004_ClockAlarmUI/3_32F407DISCOVERY/lv_conf.h:
 ../lvgl/src/hal/../misc/lv_log.h:
 ../lvgl/src/hal/../misc/lv_types.h:
 ../lvgl/src/hal/../misc/lv_mem.h:
